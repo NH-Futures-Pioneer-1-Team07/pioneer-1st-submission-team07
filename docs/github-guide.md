@@ -12,6 +12,12 @@
 | 4. Commit | [커밋 규칙](commit-convention.md)에 따라 사용자가 승인한 내용만 커밋 |
 | 5. Push | 커밋을 GitHub `main`에 업로드 |
 
+## 업로드 금지 항목
+
+- APP Key, Secret Key, 접근토큰, 웹소켓 접속키.
+- 계좌번호, 계좌 비밀번호, 주민번호 등 개인정보.
+- 실제 값이 들어 있는 설정 파일(`config.yaml`, `.env` 등).
+
 ## AI 요청 예시
 
 ```text
