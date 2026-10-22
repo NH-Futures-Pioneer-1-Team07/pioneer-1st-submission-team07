@@ -4,6 +4,7 @@
 
 | 작업 | 참조 문서 |
 |---|---|
+| 주차별 폴더 구성·보고서 작성 | [보고서 작성 안내](docs/report-guide.md) |
 | 커밋 작성 | [커밋 규칙](docs/commit-convention.md) |
 | Git 작업 | [GitHub 작업 안내](docs/github-guide.md) |
 
