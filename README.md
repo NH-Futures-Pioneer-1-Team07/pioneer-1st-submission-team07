@@ -28,3 +28,4 @@
 - [GitHub 작업 안내](docs/github-guide.md)
 - [커밋 규칙](docs/commit-convention.md)
 - [API 오류 확인·질문·제보 안내](docs/support-guide.md)
+양민수 GITHUB 테스트용
