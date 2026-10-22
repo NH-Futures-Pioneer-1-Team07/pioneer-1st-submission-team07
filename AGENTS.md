@@ -5,6 +5,7 @@
 | 작업 | 참조 문서 |
 |---|---|
 | 주차별 과제 수행·폴더 구성·보고서 작성 | [과제·보고서 작성 안내](docs/report-guide.md) |
+| API 사용·오류 확인·질문·제보 | [API 오류 확인·질문·제보 안내](docs/support-guide.md) |
 | 커밋 작성 | [커밋 규칙](docs/commit-convention.md) |
 | Git 작업 | [GitHub 작업 안내](docs/github-guide.md) |
 
