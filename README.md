@@ -13,6 +13,10 @@
 | 양민수 | 경영학과 | [mynameisyms11](https://github.com/mynameisyms11) |
 | 이한용 | 소프트웨어학과 | [yong203](https://github.com/yong203) |
 
+## 코드 저장소
+
+[pioneer-1st-code-team07](https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07)
+
 ## 주차별 일정
 
 | 주차 | 금요일 제출일 | 주제 |
