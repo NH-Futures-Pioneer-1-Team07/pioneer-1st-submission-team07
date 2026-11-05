@@ -165,7 +165,10 @@ TODO — 왜 국채선물인가, 왜 일봉 추세 + 5분봉 교차인가, VIX �
 
 장중 5분봉 교차 예시 (노란 원이 단기선·장기선 교차 지점):
 
-![5분봉 이동평균 교차 예시](screenshots/strategy/01-intraday-5min-ma-cross-chart.png)
+<figure>
+  <img src="screenshots/strategy/01-intraday-5min-ma-cross-chart.png" alt="5분봉 이동평균 교차 예시" width="800">
+  <figcaption><b>그림 1. 5분봉 이동평균 교차 예시</b><br>노란 원이 단기선(5봉)과 장기선(20봉)의 교차 지점. 왼쪽 원은 단기선이 장기선을 아래에서 위로 돌파하는 지점(매수 신호 형태), 오른쪽 원은 두 선이 다시 만나는 구간.</figcaption>
+</figure>
 
 ## 4. 사용 API와 구조
 
@@ -229,21 +232,70 @@ TODO — 왜 국채선물인가, 왜 일봉 추세 + 5분봉 교차인가, VIX �
 청산은 3건 모두 19:07 **운용 종료 청산**(시장가). 합계: 총손익 $0.00, 수수료 $54.41(추정), 순손익 −$54.41.
 계좌 조회: 운용 후 총자산 $99,952.00, 수수료 $48.00 (`result.json`의 `account`).
 
-| 화면 | 캡처 |
-| --- | --- |
-| 전체 화면 | ![](screenshots/paper/01-dashboard-overview.png) |
-| 계좌 요약 | ![](screenshots/paper/02-account-summary.png) |
-| 전략 운용 패널 | ![](screenshots/paper/03-strategy-run-panel.png) |
-| 일봉 차트 (15·30일선) | ![](screenshots/paper/04-daily-chart-15-30-ma.png) |
-| 5분봉 차트 (5·20 이동평균) | ![](screenshots/paper/05-5min-chart-5-20-ma.png) |
-| 현재 판단 | ![](screenshots/paper/06-current-judgment.png) |
-| 보유 포지션 | ![](screenshots/paper/07-open-position.png) |
-| 모의매매 이력 | ![](screenshots/paper/08-run-history-list.png) |
-| 체결 탭 (3건) | ![](screenshots/paper/09-fills-tab.png) |
-| 매매 판단 탭 | ![](screenshots/paper/10-decisions-tab.png) |
-| 판단 #22 — 08:35 매수 | ![](screenshots/paper/11-decision-0835-buy.png) |
-| 판단 #77 — 13:10 매수 | ![](screenshots/paper/12-decision-1310-buy.png) |
-| 판단 #106 — 15:35 매수 | ![](screenshots/paper/13-decision-1535-buy.png) |
+<figure>
+  <img src="screenshots/paper/01-dashboard-overview.png" alt="모의매매 전체 화면" width="900">
+  <figcaption><b>그림 2. 모의매매 전체 화면</b><br>상단 계좌 요약, 좌측 전략 운용 패널, 가운데 일봉 차트, 우측 5호가로 구성. 운용 중 상태에서 현재가 106.66, 평가손익 −$93.75.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/02-account-summary.png" alt="계좌 요약" width="900">
+  <figcaption><b>그림 3. 계좌 요약</b><br>예탁자산 $99,882.25, 예탁현금 $100,000.00, 주문 가능 금액 $93,694.25, 사용 증거금 $6,188.00. 예탁자산은 현금에 평가손익을 더한 값.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/03-strategy-run-panel.png" alt="전략 운용 패널" width="320">
+  <figcaption><b>그림 4. 전략 운용 패널</b><br>ZN 미국 10년 국채선물 이동평균 전략(ZNZ26) 운용 중. 평가손익 −$93.75, 실현손익 $0.00, 추정 비용 $27.21. 하단 버튼으로 운용 종료.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/04-daily-chart-15-30-ma.png" alt="일봉 차트 (중기 신호)" width="800">
+  <figcaption><b>그림 5. 일봉 차트 (중기 신호)</b><br>직전 거래일 종가 106.5(흰 점선), 15일선 106, 30일선 105.28. 종가가 두 이동평균 위에 있고 15일선이 30일선보다 높아 매수만 허용하는 상태.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/05-5min-chart-5-20-ma.png" alt="5분봉 차트 (장중 신호)" width="800">
+  <figcaption><b>그림 6. 5분봉 차트 (장중 신호)</b><br>단기선(5봉) 106.67, 장기선(20봉) 106.68. 두 선이 맞닿은 구간으로 새 교차 신호가 없는 상태. 시간축은 08:20~18:15.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/06-current-judgment.png" alt="현재 판단 패널" width="900">
+  <figcaption><b>그림 7. 현재 판단 패널</b><br>중기 판단: 매수 허용. 장중 판단: 단기선이 장기선 아래, 진입 신호 없음. VIX 21.15(20~25 구간)라 하루 신규 진입 한도 3계약 중 3계약 사용, 보유 매수 3계약, 증거금 대비 손익 +0.0%(기준 ±30%).</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/07-open-position.png" alt="보유 포지션" width="620">
+  <figcaption><b>그림 8. 보유 포지션</b><br>매수 3계약, 평균 진입가 106.69, 현재가 106.67, 평가손익 −$46.86.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/08-run-history-list.png" alt="모의매매 이력" width="800">
+  <figcaption><b>그림 9. 모의매매 이력</b><br>3번 실행 기록: 익절·손절 기준 30%, 시작 2026.11.04 05:43:17, 종료 시각 없음(운용 중). 이력은 실시간 연결 상태로 갱신.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/09-fills-tab.png" alt="체결 탭" width="800">
+  <figcaption><b>그림 10. 체결 탭</b><br>체결 3건. 08:35:04(106.5), 13:10:06(106.91), 15:35:05(106.66)에 각 매수 1계약 체결. 사유는 모두 “중기 매수 허용 · 장중 단기선 상향 교차”. 수수료는 건당 약 $9.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/10-decisions-tab.png" alt="매매 판단 탭" width="800">
+  <figcaption><b>그림 11. 매매 판단 탭</b><br>5분봉마다 기록된 판단 138건(캡처 시점). 최근 판단은 18:15까지 “진입 보류”이며 사유(교차 없음, 허용 방향과 다른 교차)를 함께 표시.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/11-decision-0835-buy.png" alt="판단 #22 — 08:35 매수" width="800">
+  <figcaption><b>그림 12. 판단 #22 — 08:35 매수</b><br>단기선 상향 교차 봉에서 매수 1계약 판단. 앞뒤 판단(#21, #23)은 교차 없음으로 진입 보류.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/12-decision-1310-buy.png" alt="판단 #77 — 13:10 매수" width="800">
+  <figcaption><b>그림 13. 판단 #77 — 13:10 매수</b><br>중기 매수 허용 상태에서 단기선 상향 교차 → 매수 1계약. 체결 탭의 2번 체결(13:10:06)에 대응.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/paper/13-decision-1535-buy.png" alt="판단 #106 — 15:35 매수" width="800">
+  <figcaption><b>그림 14. 판단 #106 — 15:35 매수</b><br>단기선 상향 교차 → 매수 1계약. 체결 탭의 3번 체결(15:35:05)에 대응.</figcaption>
+</figure>
 
 ### 6-2. 백테스트 (프로그램 내부 시뮬레이션)
 
@@ -261,28 +313,70 @@ TODO — 왜 국채선물인가, 왜 일봉 추세 + 5분봉 교차인가, VIX �
 
 **실행 화면**
 
-| 화면 | 캡처 |
-| --- | --- |
-| 결과 화면 (기준 40%) | ![](screenshots/backtest/01-result-page-take-profit-40pct.png) |
-| 테스트 조건 입력 패널* | ![](screenshots/backtest/02-test-conditions-panel.png) |
-| 결과 화면 (기준 30%, 9/24 툴팁) | ![](screenshots/backtest/03-result-take-profit-30pct-tooltip.png) |
-| 실행 이력 | ![](screenshots/backtest/04-run-history-list.png) |
-| 실행 상세 — 매매 판단 (30%) | ![](screenshots/backtest/05-run-detail-decisions-tab.png) |
-| 실행 상세 — 체결 (30%) | ![](screenshots/backtest/06-run-detail-fills-tab.png) |
+<figure>
+  <img src="screenshots/backtest/01-result-page-take-profit-40pct.png" alt="백테스트 결과 화면 (익절·손절 기준 40%)" width="900">
+  <figcaption><b>그림 15. 백테스트 결과 화면 (익절·손절 기준 40%)</b><br>2026.08.11~2026.11.03, 초기자금 $100,000 → 최종자산 $149,902.07, 순손익 +$49,902.07(+49.90%). 거래 135건(99승 36패), 최대 낙폭 $48,564.03(25.04%), 수수료 합계 $2,441.68. 노란 선은 일별 자산, 봉은 일봉과 일별 체결 건수.</figcaption>
+</figure>
 
-\* 이 캡처의 시작일 입력값(2026.10.28)은 입력 화면 상태. 실행 기간은 위 표(2026-08-11 ~ 2026-11-03).
+<figure>
+  <img src="screenshots/backtest/02-test-conditions-panel.png" alt="테스트 조건 입력 패널" width="340">
+  <figcaption><b>그림 16. 테스트 조건 입력 패널</b><br>전략·종목(ZNZ26)·기간·초기자금 100,000 USD·익절·손절 기준(%)을 입력. 비용 가정은 수수료 0.0085%, 슬리피지 1틱, 다음 봉 시가 전량 체결, 증거금·주문가능수량 미제한. (캡처의 시작일 2026.10.28은 입력 화면 상태이며 실제 실행 기간은 2026-08-11 ~ 2026-11-03)</figcaption>
+</figure>
 
-**이력 비교 (A 10% · B 20% · C 30% · D 40%)**
+<figure>
+  <img src="screenshots/backtest/03-result-take-profit-30pct-tooltip.png" alt="백테스트 결과 화면 (기준 30%, 일별 툴팁)" width="900">
+  <figcaption><b>그림 17. 백테스트 결과 화면 (기준 30%, 일별 툴팁)</b><br>최종자산 $150,038.71, 순손익 +$50,038.71(+50.04%), 거래 171건(127승 44패), 최대 낙폭 $37,781.86(21.27%). 9월 24일에 마우스를 올리면 그날 자산 $149,434.97과 체결 내역(매도 1계약씩)과 사유를 표시.</figcaption>
+</figure>
 
-| 화면 | 캡처 |
-| --- | --- |
-| 비교할 실행 선택 | ![](screenshots/backtest/07-compare-select-runs.png) |
-| 비교할 수치 선택 | ![](screenshots/backtest/08-compare-select-metrics.png) |
-| 설정값 비교 | ![](screenshots/backtest/09-compare-parameters.png) |
-| 수치 비교 카드 | ![](screenshots/backtest/10-compare-metric-cards.png) |
-| 수익률 곡선 | ![](screenshots/backtest/11-compare-return-curve.png) |
-| 낙폭 곡선 | ![](screenshots/backtest/12-compare-drawdown-curve.png) |
-| 일별 손익 | ![](screenshots/backtest/13-compare-daily-pnl.png) |
+<figure>
+  <img src="screenshots/backtest/04-run-history-list.png" alt="실행 이력" width="900">
+  <figcaption><b>그림 18. 실행 이력</b><br>실행별 일시·익절·손절 기준·기간·초기자금·슬리피지·순손익. 40% +$49,902.07, 50% +$32,963.53, 30% +$50,038.71, 5% −$10,943.37, 10% −$3,377.82, 15% −$2,583.28, 20% +$3,682.24.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/05-run-detail-decisions-tab.png" alt="실행 상세 기록 — 매매 판단 (30%)" width="700">
+  <figcaption><b>그림 19. 실행 상세 기록 — 매매 판단 (30%)</b><br>2026.11.04 05:30:10 실행. 판단 16,342건, 체결 342건. 슬리피지는 1틱(0.015625)을 시장가 체결마다 불리한 방향으로 반영. 하단에 기간 종료 시 남은 보유분은 마지막 봉 종가로 정리한다는 안내.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/06-run-detail-fills-tab.png" alt="실행 상세 기록 — 체결 (30%)" width="700">
+  <figcaption><b>그림 20. 실행 상세 기록 — 체결 (30%)</b><br>체결 342건 목록. 2026.10.30 09:45 매도 3건은 “증거금 대비 평가손익 30.8%가 익절 기준 30%에 도달”로 청산. 그 이후 10.31~11.03에 매수 진입.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/07-compare-select-runs.png" alt="이력 비교 — 실행 선택" width="900">
+  <figcaption><b>그림 21. 이력 비교 — 실행 선택</b><br>같은 종목·초기자금·기간의 이력을 최대 4건 선택. 10%(A), 20%(B), 30%(C), 40%(D) 선택.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/08-compare-select-metrics.png" alt="이력 비교 — 비교할 수치 선택" width="900">
+  <figcaption><b>그림 22. 이력 비교 — 비교할 수치 선택</b><br>수익성(순손익·수익률 등), 위험(최대 낙폭), 거래(거래 수·승률), 비용(수수료), 곡선(수익률·낙폭·일별 손익) 항목을 골라 비교.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/09-compare-parameters.png" alt="이력 비교 — 설정값" width="900">
+  <figcaption><b>그림 23. 이력 비교 — 설정값</b><br>네 실행의 다른 설정은 익절·손절 기준(10·20·30·40%)뿐이고 슬리피지 1틱, 수수료율 0.000085, 이동평균 기간(15/30일, 5/20봉)은 모두 동일.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/10-compare-metric-cards.png" alt="이력 비교 — 수치 카드" width="900">
+  <figcaption><b>그림 24. 이력 비교 — 수치 카드</b><br>순손익 A −$3,377.82 / B +$3,682.24 / C +$50,038.71 / D +$49,902.07. 승률 A 53.77%, B 55.50%, C 74.27%, D 73.33%. 최대 낙폭 비율은 A 7.03%, B 19.27%, C 21.27%, D 25.04%, 수수료는 D가 가장 낮음($2,441.68).</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/11-compare-return-curve.png" alt="이력 비교 — 수익률 곡선" width="900">
+  <figcaption><b>그림 25. 이력 비교 — 수익률 곡선</b><br>C(30%)와 D(40%)가 9월 이후 급등해 10월 6일 각각 69.12%, 86.01%에 도달(A −1.13%, B 15.74%). 10월 중순 급락 이후 두 곡선은 거의 겹쳐 약 50%로 마감.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/12-compare-drawdown-curve.png" alt="이력 비교 — 낙폭 곡선" width="900">
+  <figcaption><b>그림 26. 이력 비교 — 낙폭 곡선</b><br>10월 29일 기준 낙폭 A −6.62%, B −17.16%, C −14.72%, D −21.59%. 기준이 클수록 낙폭이 깊은 경향.</figcaption>
+</figure>
+
+<figure>
+  <img src="screenshots/backtest/13-compare-daily-pnl.png" alt="이력 비교 — 일별 손익" width="900">
+  <figcaption><b>그림 27. 이력 비교 — 일별 손익</b><br>일별 손익 막대. 10월 중순에 C·D의 큰 손실일이 나타남. 10월 29일에는 A −$1,038.40, B·C·D −$1,314.91.</figcaption>
+</figure>
 
 ## 7. 해석과 한계
 
