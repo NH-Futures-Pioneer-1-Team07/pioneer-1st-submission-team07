@@ -1,0 +1,5042 @@
+[
+  {
+    "id": "61b7fd1e9095661b",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -10988.955244073826,
+      "gross_pnl": -5882.8125,
+      "fee": 5106.142744073827,
+      "return_rate": -0.10988955244073827,
+      "final_equity": 89011.04475592618,
+      "max_drawdown": 10988.955244073819,
+      "max_drawdown_rate": 0.10988955244073818,
+      "trade_count": 57,
+      "win_count": 0,
+      "loss_count": 57,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:13+09:00",
+    "elapsed_seconds": 0.42
+  },
+  {
+    "id": "1bb631b7fd8bb55a",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -3163.5096780571093,
+      "gross_pnl": -1640.625,
+      "fee": 1522.884678057109,
+      "return_rate": -0.031635096780571095,
+      "final_equity": 96836.4903219429,
+      "max_drawdown": 3163.509678057104,
+      "max_drawdown_rate": 0.03163509678057104,
+      "trade_count": 17,
+      "win_count": 0,
+      "loss_count": 17,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:14+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "98a8e843f9aa024a",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -1120.3068549512543,
+      "gross_pnl": -851.5625,
+      "fee": 268.74435495125437,
+      "return_rate": -0.011203068549512543,
+      "final_equity": 98879.69314504875,
+      "max_drawdown": 1335.4129033008358,
+      "max_drawdown_rate": 0.013348636499692415,
+      "trade_count": 3,
+      "win_count": 0,
+      "loss_count": 3,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:14+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "b2541edaff7f7f54",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -6865.0326627158865,
+      "gross_pnl": -3460.9375,
+      "fee": 3404.095162715887,
+      "return_rate": -0.06865032662715886,
+      "final_equity": 93134.96733728412,
+      "max_drawdown": 6865.032662715879,
+      "max_drawdown_rate": 0.0686503266271588,
+      "trade_count": 38,
+      "win_count": 0,
+      "loss_count": 38,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:14+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "017b6d1b634e6c41",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -1373.4262099025086,
+      "gross_pnl": -835.9375,
+      "fee": 537.4887099025087,
+      "return_rate": -0.013734262099025086,
+      "final_equity": 98626.5737900975,
+      "max_drawdown": 1927.0786291260447,
+      "max_drawdown_rate": 0.019270786291260448,
+      "trade_count": 6,
+      "win_count": 1,
+      "loss_count": 5,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:14+09:00",
+    "elapsed_seconds": 0.42
+  },
+  {
+    "id": "78b7488d9616b6f9",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -1260.9318549512543,
+      "gross_pnl": -992.1875,
+      "fee": 268.74435495125437,
+      "return_rate": -0.012609318549512543,
+      "final_equity": 98739.06814504875,
+      "max_drawdown": 1260.9318549512536,
+      "max_drawdown_rate": 0.012609318549512536,
+      "trade_count": 3,
+      "win_count": 0,
+      "loss_count": 3,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:14+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "52c6661eadb9e040",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -218.22540330083623,
+      "gross_pnl": -39.0625,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0021822540330083623,
+      "final_equity": 99781.77459669916,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:15+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "d13be915b5548151",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -54.162903300836234,
+      "gross_pnl": 125.0,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0005416290330083624,
+      "final_equity": 99945.83709669916,
+      "max_drawdown": 359.375,
+      "max_drawdown_rate": 0.0035925524487168715,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:15+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "523d7e3d5ab80eb3",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -526.5568549512543,
+      "gross_pnl": -257.8125,
+      "fee": 268.74435495125437,
+      "return_rate": -0.005265568549512543,
+      "final_equity": 99473.44314504875,
+      "max_drawdown": 1392.1846774756268,
+      "max_drawdown_rate": 0.013921846774756268,
+      "trade_count": 3,
+      "win_count": 0,
+      "loss_count": 3,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:15+09:00",
+    "elapsed_seconds": 0.4
+  },
+  {
+    "id": "037ff2c17a7cff9c",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -726.0379033008362,
+      "gross_pnl": -546.875,
+      "fee": 179.16290330083623,
+      "return_rate": -0.007260379033008362,
+      "final_equity": 99273.96209669916,
+      "max_drawdown": 726.0379033008358,
+      "max_drawdown_rate": 0.007260379033008357,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:15+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "8ebc1223e27735ab",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 39.587096699163766,
+      "gross_pnl": 218.75,
+      "fee": 179.16290330083623,
+      "return_rate": 0.00039587096699163763,
+      "final_equity": 100039.58709669916,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:15+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "2a5970d34baf85db",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:15+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "edb28f472fe12a65",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -334.88830660167247,
+      "gross_pnl": 23.4375,
+      "fee": 358.32580660167247,
+      "return_rate": -0.0033488830660167246,
+      "final_equity": 99665.11169339833,
+      "max_drawdown": 1390.1004033008358,
+      "max_drawdown_rate": 0.013895792718526773,
+      "trade_count": 4,
+      "win_count": 0,
+      "loss_count": 4,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:16+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "316b3dde69845113",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -686.4508066016724,
+      "gross_pnl": -328.125,
+      "fee": 358.32580660167247,
+      "return_rate": -0.006864508066016724,
+      "final_equity": 99313.54919339833,
+      "max_drawdown": 723.9536291260447,
+      "max_drawdown_rate": 0.007236822278644883,
+      "trade_count": 4,
+      "win_count": 0,
+      "loss_count": 4,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:16+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "490b1f1ecdc9bbbe",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 191.6685483495819,
+      "gross_pnl": 281.25,
+      "fee": 89.58145165041812,
+      "return_rate": 0.001916685483495819,
+      "final_equity": 100191.66854834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:16+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "1bde9fa1dff92660",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:16+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "e312412061d98302",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 328.6495966991638,
+      "gross_pnl": 507.8125,
+      "fee": 179.16290330083623,
+      "return_rate": 0.0032864959669916378,
+      "final_equity": 100328.64959669916,
+      "max_drawdown": 1152.0814516504179,
+      "max_drawdown_rate": 0.011479321444530587,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:17+09:00",
+    "elapsed_seconds": 0.39
+  },
+  {
+    "id": "3267cb8f908988f9",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -124.47540330083623,
+      "gross_pnl": 54.6875,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0012447540330083624,
+      "final_equity": 99875.52459669916,
+      "max_drawdown": 485.9346774756268,
+      "max_drawdown_rate": 0.004841845475244784,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:17+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "4df01e8fda1053a3",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 293.2310483495819,
+      "gross_pnl": 382.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002932310483495819,
+      "final_equity": 100293.23104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:17+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "c304d8efa658fa77",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:17+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "a272cd16e06e1858",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 90,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:17+09:00",
+    "elapsed_seconds": 0.37
+  },
+  {
+    "id": "4ab3a3ab6e581161",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 90,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:18+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "d754d1d20a0665ce",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 90,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:18+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "a1c719ce728e4de7",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 90,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:18+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "e97252e21995e40e",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 120,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:18+09:00",
+    "elapsed_seconds": 0.35
+  },
+  {
+    "id": "410173c727a8489c",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 120,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:18+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "b26b57708320353f",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 120,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:18+09:00",
+    "elapsed_seconds": 0.11
+  },
+  {
+    "id": "138502dfefbb8a77",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 120,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:19+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "fb7b930e2263a772",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -358.32580660167247,
+      "gross_pnl": 0.0,
+      "fee": 358.32580660167247,
+      "return_rate": -0.003583258066016725,
+      "final_equity": 99641.67419339833,
+      "max_drawdown": 1405.7254033008358,
+      "max_drawdown_rate": 0.014053081627748466,
+      "trade_count": 4,
+      "win_count": 0,
+      "loss_count": 4,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:20+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "23ea4f2deceb788a",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -709.8883066016724,
+      "gross_pnl": -351.5625,
+      "fee": 358.32580660167247,
+      "return_rate": -0.0070988830660167245,
+      "final_equity": 99290.11169339833,
+      "max_drawdown": 739.5786291260447,
+      "max_drawdown_rate": 0.007393591110213691,
+      "trade_count": 4,
+      "win_count": 0,
+      "loss_count": 4,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:20+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "197742563df03ce8",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 191.6685483495819,
+      "gross_pnl": 281.25,
+      "fee": 89.58145165041812,
+      "return_rate": 0.001916685483495819,
+      "final_equity": 100191.66854834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:20+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "c2e59c1702fda724",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:20+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "c0477ba09820dd74",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -533.8447582520905,
+      "gross_pnl": -85.9375,
+      "fee": 447.90725825209057,
+      "return_rate": -0.005338447582520905,
+      "final_equity": 99466.15524174791,
+      "max_drawdown": 1589.0568549512536,
+      "max_drawdown_rate": 0.015884611371901045,
+      "trade_count": 5,
+      "win_count": 0,
+      "loss_count": 5,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:20+09:00",
+    "elapsed_seconds": 0.4
+  },
+  {
+    "id": "fadb392bbdb410fe",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -885.4072582520905,
+      "gross_pnl": -437.5,
+      "fee": 447.90725825209057,
+      "return_rate": -0.008854072582520906,
+      "final_equity": 99114.59274174791,
+      "max_drawdown": 922.9100807764626,
+      "max_drawdown_rate": 0.009225640932019155,
+      "trade_count": 5,
+      "win_count": 0,
+      "loss_count": 5,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:21+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "9f62ff58df79205f",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 144.7935483495819,
+      "gross_pnl": 234.375,
+      "fee": 89.58145165041812,
+      "return_rate": 0.001447935483495819,
+      "final_equity": 100144.79354834958,
+      "max_drawdown": 872.9157258252089,
+      "max_drawdown_rate": 0.00872915725825209,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:21+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "7a3f89a1cab59d37",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:21+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "4e03982e2146cab6",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -564.5701615529268,
+      "gross_pnl": 62.5,
+      "fee": 627.0701615529268,
+      "return_rate": -0.0056457016155292685,
+      "final_equity": 99435.42983844707,
+      "max_drawdown": 1682.2822582520894,
+      "max_drawdown_rate": 0.01681853019522495,
+      "trade_count": 7,
+      "win_count": 1,
+      "loss_count": 6,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:21+09:00",
+    "elapsed_seconds": 0.4
+  },
+  {
+    "id": "e1859de8c8d4b742",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -990.6137099025087,
+      "gross_pnl": -453.125,
+      "fee": 537.4887099025087,
+      "return_rate": -0.009906137099025087,
+      "final_equity": 99009.3862900975,
+      "max_drawdown": 1016.1354840772983,
+      "max_drawdown_rate": 0.010158762144439525,
+      "trade_count": 6,
+      "win_count": 0,
+      "loss_count": 6,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:21+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "64a81f16921d159d",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 543.2310483495819,
+      "gross_pnl": 632.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.005432310483495819,
+      "final_equity": 100543.23104834958,
+      "max_drawdown": 242.1875,
+      "max_drawdown_rate": 0.002415785185449637,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:21+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "93ccafa4937d37ac",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 74.48104834958188,
+      "gross_pnl": 164.0625,
+      "fee": 89.58145165041812,
+      "return_rate": 0.0007448104834958188,
+      "final_equity": 100074.48104834958,
+      "max_drawdown": 146.35322582520894,
+      "max_drawdown_rate": 0.0014635322582520894,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:22+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "caac209821ff4e82",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.2,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -3217.1479846587827,
+      "gross_pnl": -1335.9375,
+      "fee": 1881.2104846587824,
+      "return_rate": -0.032171479846587824,
+      "final_equity": 96782.85201534122,
+      "max_drawdown": 4222.365726406686,
+      "max_drawdown_rate": 0.042212883787194025,
+      "trade_count": 21,
+      "win_count": 2,
+      "loss_count": 19,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:22+09:00",
+    "elapsed_seconds": 0.42
+  },
+  {
+    "id": "62e52f52f3b8d6dc",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.2,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -3530.6971780571093,
+      "gross_pnl": -2007.8125,
+      "fee": 1522.884678057109,
+      "return_rate": -0.03530697178057109,
+      "final_equity": 96469.3028219429,
+      "max_drawdown": 3556.218952231895,
+      "max_drawdown_rate": 0.035553115736408604,
+      "trade_count": 17,
+      "win_count": 0,
+      "loss_count": 17,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:22+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "81e1fe8f4ca587b2",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.2,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 266.1495966991638,
+      "gross_pnl": 445.3125,
+      "fee": 179.16290330083623,
+      "return_rate": 0.002661495966991638,
+      "final_equity": 100266.14959669916,
+      "max_drawdown": 310.41572582520894,
+      "max_drawdown_rate": 0.003104157258252089,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:22+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "b248e3ca778d348d",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0.2,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -81.24435495125437,
+      "gross_pnl": 187.5,
+      "fee": 268.74435495125437,
+      "return_rate": -0.0008124435495125437,
+      "final_equity": 99918.75564504875,
+      "max_drawdown": 464.5814516504179,
+      "max_drawdown_rate": 0.004633771493868982,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:22+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "e8073588ce6b2eb9",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -155.72540330083623,
+      "gross_pnl": 23.4375,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0015572540330083624,
+      "final_equity": 99844.27459669916,
+      "max_drawdown": 1382.8125,
+      "max_drawdown_rate": 0.013813232219131902,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:23+09:00",
+    "elapsed_seconds": 0.42
+  },
+  {
+    "id": "65b28a4326170e95",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -608.8504033008362,
+      "gross_pnl": -429.6875,
+      "fee": 179.16290330083623,
+      "return_rate": -0.006088504033008362,
+      "final_equity": 99391.14959669916,
+      "max_drawdown": 716.6657258252089,
+      "max_drawdown_rate": 0.0071589388252683035,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:24+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "aec2bf8d957fcddd",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 293.2310483495819,
+      "gross_pnl": 382.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002932310483495819,
+      "final_equity": 100293.23104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:24+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "210733cfaeaf6248",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:24+09:00",
+    "elapsed_seconds": 0.11
+  },
+  {
+    "id": "1d2d3ec44e0456e5",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -307.80685495125437,
+      "gross_pnl": -39.0625,
+      "fee": 268.74435495125437,
+      "return_rate": -0.0030780685495125438,
+      "final_equity": 99692.19314504875,
+      "max_drawdown": 1355.2064516504179,
+      "max_drawdown_rate": 0.013546984015131578,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:24+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "415893892d853c44",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -651.5568549512543,
+      "gross_pnl": -382.8125,
+      "fee": 268.74435495125437,
+      "return_rate": -0.006515568549512543,
+      "final_equity": 99348.44314504875,
+      "max_drawdown": 689.0596774756268,
+      "max_drawdown_rate": 0.006888013575249687,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:24+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "6227ed11f9e9dd8d",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 183.8560483495819,
+      "gross_pnl": 273.4375,
+      "fee": 89.58145165041812,
+      "return_rate": 0.001838560483495819,
+      "final_equity": 100183.85604834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:25+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "682c55bd6d52e5fe",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:25+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "64bbb4fc90f4ad5d",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -2208.314516504181,
+      "gross_pnl": -1312.5,
+      "fee": 895.8145165041811,
+      "return_rate": -0.022083145165041812,
+      "final_equity": 97791.68548349582,
+      "max_drawdown": 2991.64879067897,
+      "max_drawdown_rate": 0.029916487906789697,
+      "trade_count": 10,
+      "win_count": 0,
+      "loss_count": 10,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:25+09:00",
+    "elapsed_seconds": 0.39
+  },
+  {
+    "id": "ee710ac3b0f94239",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -2325.502016504181,
+      "gross_pnl": -1429.6875,
+      "fee": 895.8145165041811,
+      "return_rate": -0.02325502016504181,
+      "final_equity": 97674.49798349582,
+      "max_drawdown": 2325.5020165041788,
+      "max_drawdown_rate": 0.023255020165041787,
+      "trade_count": 10,
+      "win_count": 0,
+      "loss_count": 10,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:25+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "77e1292c5e6430ab",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -42.70645165041812,
+      "gross_pnl": 46.875,
+      "fee": 89.58145165041812,
+      "return_rate": -0.00042706451650418117,
+      "final_equity": 99957.29354834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 0,
+      "loss_count": 1,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:25+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "7854435ea91f48fe",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:25+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "0084b662b20e4db0",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.01
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:26+09:00",
+    "elapsed_seconds": 0.36
+  },
+  {
+    "id": "a09bde36b24f13aa",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.01
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:26+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "ce4a2b8d272601ba",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.01
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:26+09:00",
+    "elapsed_seconds": 0.11
+  },
+  {
+    "id": "722597d1a7d0cdcb",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.01
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:26+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "de3dba7be71fffc2",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.03
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:27+09:00",
+    "elapsed_seconds": 0.36
+  },
+  {
+    "id": "bfd60367c38ff413",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.03
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:27+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "a94591fee1e152bd",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.03
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:27+09:00",
+    "elapsed_seconds": 0.11
+  },
+  {
+    "id": "370f95ea73e22859",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.03
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:27+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "fcafa64d9de68c9a",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 45,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -179.16290330083623,
+      "gross_pnl": 0.0,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0017916290330083624,
+      "final_equity": 99820.83709669916,
+      "max_drawdown": 1331.7689516504179,
+      "max_drawdown_rate": 0.013313251640700687,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:43+09:00",
+    "elapsed_seconds": 0.42
+  },
+  {
+    "id": "93dbb9853d814d5a",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 45,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -632.2879033008362,
+      "gross_pnl": -453.125,
+      "fee": 179.16290330083623,
+      "return_rate": -0.006322879033008362,
+      "final_equity": 99367.71209669916,
+      "max_drawdown": 665.6221774756268,
+      "max_drawdown_rate": 0.00665400371091567,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:43+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "302b9e32e476a2f6",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 45,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 293.2310483495819,
+      "gross_pnl": 382.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002932310483495819,
+      "final_equity": 100293.23104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:43+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "2ec93cc57a6d7708",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 45,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:43+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "379a5371397383f9",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 50,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -319.7879033008362,
+      "gross_pnl": -140.625,
+      "fee": 179.16290330083623,
+      "return_rate": -0.003197879033008362,
+      "final_equity": 99680.21209669916,
+      "max_drawdown": 1370.8314516504179,
+      "max_drawdown_rate": 0.013703746472082957,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:43+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "919e81afae71994e",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 50,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -671.3504033008362,
+      "gross_pnl": -492.1875,
+      "fee": 179.16290330083623,
+      "return_rate": -0.006713504033008362,
+      "final_equity": 99328.64959669916,
+      "max_drawdown": 704.6846774756268,
+      "max_drawdown_rate": 0.00704449854229794,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:43+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "6266339b2c8d5e3f",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 50,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 191.6685483495819,
+      "gross_pnl": 281.25,
+      "fee": 89.58145165041812,
+      "return_rate": 0.001916685483495819,
+      "final_equity": 100191.66854834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:44+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "d3c896c43265be56",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 50,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:44+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "7e6eda6dd950f5ce",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 55,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 109.89959669916377,
+      "gross_pnl": 289.0625,
+      "fee": 179.16290330083623,
+      "return_rate": 0.0010989959669916376,
+      "final_equity": 100109.89959669916,
+      "max_drawdown": 1136.4564516504179,
+      "max_drawdown_rate": 0.011350140273120262,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:44+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "c507afeeae2ab366",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 55,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -343.2254033008362,
+      "gross_pnl": -164.0625,
+      "fee": 179.16290330083623,
+      "return_rate": -0.003432254033008362,
+      "final_equity": 99656.77459669916,
+      "max_drawdown": 470.3096774756268,
+      "max_drawdown_rate": 0.004697127464411056,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:44+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "6b52e4f2fe590c04",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 55,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 293.2310483495819,
+      "gross_pnl": 382.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002932310483495819,
+      "final_equity": 100293.23104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:44+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "4e25077c3a3deaf0",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 55,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:45+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "88db8a27dc15ce63",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 65,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 66.66854834958188,
+      "gross_pnl": 156.25,
+      "fee": 89.58145165041812,
+      "return_rate": 0.0006666854834958189,
+      "final_equity": 100066.66854834958,
+      "max_drawdown": 1062.5,
+      "max_drawdown_rate": 0.010623948571801402,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:45+09:00",
+    "elapsed_seconds": 0.4
+  },
+  {
+    "id": "ab6e34f0f1269403",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 65,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -386.4564516504181,
+      "gross_pnl": -296.875,
+      "fee": 89.58145165041812,
+      "return_rate": -0.003864564516504181,
+      "final_equity": 99613.54354834958,
+      "max_drawdown": 396.35322582520894,
+      "max_drawdown_rate": 0.003963140035232572,
+      "trade_count": 1,
+      "win_count": 0,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:45+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "81a3838832c82f86",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 65,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 293.2310483495819,
+      "gross_pnl": 382.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002932310483495819,
+      "final_equity": 100293.23104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:45+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "d611fd28a2282410",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 65,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:45+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "6a45fc4f3db6a9b1",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 70,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 66.66854834958188,
+      "gross_pnl": 156.25,
+      "fee": 89.58145165041812,
+      "return_rate": 0.0006666854834958189,
+      "final_equity": 100066.66854834958,
+      "max_drawdown": 1062.5,
+      "max_drawdown_rate": 0.010623948571801402,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:46+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "d60eeb141b3a0518",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 70,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -386.4564516504181,
+      "gross_pnl": -296.875,
+      "fee": 89.58145165041812,
+      "return_rate": -0.003864564516504181,
+      "final_equity": 99613.54354834958,
+      "max_drawdown": 396.35322582520894,
+      "max_drawdown_rate": 0.003963140035232572,
+      "trade_count": 1,
+      "win_count": 0,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:46+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "4cb8f65eef218e1a",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 70,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 293.2310483495819,
+      "gross_pnl": 382.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002932310483495819,
+      "final_equity": 100293.23104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:46+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "5839b3c7978672d3",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 70,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:46+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "e2446a558647d4e9",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 80,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 66.66854834958188,
+      "gross_pnl": 156.25,
+      "fee": 89.58145165041812,
+      "return_rate": 0.0006666854834958189,
+      "final_equity": 100066.66854834958,
+      "max_drawdown": 1062.5,
+      "max_drawdown_rate": 0.010623948571801402,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:47+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "ca876e150d6e6657",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 80,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -386.4564516504181,
+      "gross_pnl": -296.875,
+      "fee": 89.58145165041812,
+      "return_rate": -0.003864564516504181,
+      "final_equity": 99613.54354834958,
+      "max_drawdown": 396.35322582520894,
+      "max_drawdown_rate": 0.003963140035232572,
+      "trade_count": 1,
+      "win_count": 0,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:47+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "437013682b02c220",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 80,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 293.2310483495819,
+      "gross_pnl": 382.8125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002932310483495819,
+      "final_equity": 100293.23104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:47+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "f843cbbff843888b",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 80,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:47+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "51c23e5c3e56e53c",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 328.6495966991638,
+      "gross_pnl": 507.8125,
+      "fee": 179.16290330083623,
+      "return_rate": 0.0032864959669916378,
+      "final_equity": 100328.64959669916,
+      "max_drawdown": 1152.0814516504179,
+      "max_drawdown_rate": 0.011479321444530587,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:48+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "87ca9a9b1d29c32c",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -124.47540330083623,
+      "gross_pnl": 54.6875,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0012447540330083624,
+      "final_equity": 99875.52459669916,
+      "max_drawdown": 485.9346774756268,
+      "max_drawdown_rate": 0.004841845475244784,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:48+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "9bb4062cfb498094",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 340.1060483495819,
+      "gross_pnl": 429.6875,
+      "fee": 89.58145165041812,
+      "return_rate": 0.003401060483495819,
+      "final_equity": 100340.10604834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008664248574685647,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:48+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "a1260fbc885d386f",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:48+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "d0b17c7505bee155",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 242.71209669916377,
+      "gross_pnl": 421.875,
+      "fee": 179.16290330083623,
+      "return_rate": 0.002427120966991638,
+      "final_equity": 100242.71209669916,
+      "max_drawdown": 1144.2689516504179,
+      "max_drawdown_rate": 0.011412138164256822,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:49+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "146589e86dae2c90",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -210.41290330083623,
+      "gross_pnl": -31.25,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0021041290330083623,
+      "final_equity": 99789.58709669916,
+      "max_drawdown": 478.1221774756268,
+      "max_drawdown_rate": 0.004768456175339923,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:49+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "698b012e8bffb1a2",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 238.5435483495819,
+      "gross_pnl": 328.125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.002385435483495819,
+      "final_equity": 100238.54354834958,
+      "max_drawdown": 880.7282258252089,
+      "max_drawdown_rate": 0.00880728225825209,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:49+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "92ec0bfc07b7cb35",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:49+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "11ebe121d7f535fd",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 141.67419339832753,
+      "gross_pnl": 500.0,
+      "fee": 358.32580660167247,
+      "return_rate": 0.0014167419339832753,
+      "final_equity": 100141.67419339833,
+      "max_drawdown": 1269.2689516504179,
+      "max_drawdown_rate": 0.012675062899402957,
+      "trade_count": 4,
+      "win_count": 2,
+      "loss_count": 2,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:50+09:00",
+    "elapsed_seconds": 0.43
+  },
+  {
+    "id": "4e4a2ca42e80bd6c",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -464.05685495125437,
+      "gross_pnl": -195.3125,
+      "fee": 268.74435495125437,
+      "return_rate": -0.004640568549512543,
+      "final_equity": 99535.94314504875,
+      "max_drawdown": 603.1221774756268,
+      "max_drawdown_rate": 0.006022846084423818,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:50+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "4c330397db4de88e",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 488.5435483495819,
+      "gross_pnl": 578.125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.004885435483495819,
+      "final_equity": 100488.54354834958,
+      "max_drawdown": 187.5,
+      "max_drawdown_rate": 0.0018698481611719644,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:50+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "20bccd8d6a7d4580",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 152.6060483495819,
+      "gross_pnl": 242.1875,
+      "fee": 89.58145165041812,
+      "return_rate": 0.001526060483495819,
+      "final_equity": 100152.60604834958,
+      "max_drawdown": 593.75,
+      "max_drawdown_rate": 0.005918880133891522,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:50+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "e6b6c4e1a0bd024c",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 477.0870966991638,
+      "gross_pnl": 656.25,
+      "fee": 179.16290330083623,
+      "return_rate": 0.004770870966991638,
+      "final_equity": 100477.08709669916,
+      "max_drawdown": 1183.3314516504179,
+      "max_drawdown_rate": 0.011777860313384335,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:51+09:00",
+    "elapsed_seconds": 0.41
+  },
+  {
+    "id": "6a731c06bb7d5b4c",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -46.350403300836234,
+      "gross_pnl": 132.8125,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0004635040330083623,
+      "final_equity": 99953.64959669916,
+      "max_drawdown": 517.1846774756268,
+      "max_drawdown_rate": 0.005147610062282174,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:51+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "2b585ba821922c5f",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 363.5435483495819,
+      "gross_pnl": 453.125,
+      "fee": 89.58145165041812,
+      "return_rate": 0.003635435483495819,
+      "final_equity": 100363.54354834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:51+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "2791335ef5bf9420",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:51+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "bc678dcdf79a7729",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 367.7120966991638,
+      "gross_pnl": 546.875,
+      "fee": 179.16290330083623,
+      "return_rate": 0.003677120966991638,
+      "final_equity": 100367.71209669916,
+      "max_drawdown": 1175.5189516504179,
+      "max_drawdown_rate": 0.011707384253985813,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:51+09:00",
+    "elapsed_seconds": 0.4
+  },
+  {
+    "id": "1ad29588b5b39737",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -101.03790330083623,
+      "gross_pnl": 78.125,
+      "fee": 179.16290330083623,
+      "return_rate": -0.0010103790330083624,
+      "final_equity": 99898.96209669916,
+      "max_drawdown": 509.3721774756268,
+      "max_drawdown_rate": 0.005073006948653647,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:52+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "0f21d30461bcd0fc",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 308.8560483495819,
+      "gross_pnl": 398.4375,
+      "fee": 89.58145165041812,
+      "return_rate": 0.003088560483495819,
+      "final_equity": 100308.85604834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:52+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "7132cf2bc30482de",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:52+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "0b8674910cd2a22a",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-08-11",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -319.26330660167247,
+      "gross_pnl": 39.0625,
+      "fee": 358.32580660167247,
+      "return_rate": -0.0031926330660167245,
+      "final_equity": 99680.73669339833,
+      "max_drawdown": 1354.6818549512536,
+      "max_drawdown_rate": 0.013520130248537692,
+      "trade_count": 4,
+      "win_count": 1,
+      "loss_count": 3,
+      "days": 79,
+      "bars": 17399
+    },
+    "created_at": "2026-11-11T03:39:52+09:00",
+    "elapsed_seconds": 0.4
+  },
+  {
+    "id": "e7c1ed768909b153",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-08-11",
+    "end": "2026-09-15",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -491.13830660167247,
+      "gross_pnl": -132.8125,
+      "fee": 358.32580660167247,
+      "return_rate": -0.004911383066016724,
+      "final_equity": 99508.86169339833,
+      "max_drawdown": 688.5350807764626,
+      "max_drawdown_rate": 0.006871786123628393,
+      "trade_count": 4,
+      "win_count": 1,
+      "loss_count": 3,
+      "days": 31,
+      "bars": 6420
+    },
+    "created_at": "2026-11-11T03:39:52+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "28ed83f2fd532177",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-09-16",
+    "end": "2026-10-13",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 11.981048349581883,
+      "gross_pnl": 101.5625,
+      "fee": 89.58145165041812,
+      "return_rate": 0.00011981048349581883,
+      "final_equity": 100011.98104834958,
+      "max_drawdown": 867.1875,
+      "max_drawdown_rate": 0.008668308270771051,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5485
+    },
+    "created_at": "2026-11-11T03:39:52+09:00",
+    "elapsed_seconds": 0.14
+  },
+  {
+    "id": "54146918a9e6cffa",
+    "strategy_id": "week04_zf_zn_spread",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-10-14",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 24,
+      "bars": 5494
+    },
+    "created_at": "2026-11-11T03:39:53+09:00",
+    "elapsed_seconds": 0.12
+  },
+  {
+    "id": "2ef98e440fbc9162",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 5,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -4358.6884741372305,
+      "gross_pnl": -1867.1875,
+      "fee": 2491.50097413723,
+      "return_rate": -0.0435868847413723,
+      "final_equity": 95641.31152586277,
+      "max_drawdown": 4358.688474137234,
+      "max_drawdown_rate": 0.043586884741372345,
+      "trade_count": 47,
+      "win_count": 1,
+      "loss_count": 46,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "1449dea3167eae46",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 5,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -905.1065902419637,
+      "gross_pnl": -375.0,
+      "fee": 530.1065902419637,
+      "return_rate": -0.009051065902419636,
+      "final_equity": 99094.89340975803,
+      "max_drawdown": 917.6637607298617,
+      "max_drawdown_rate": 0.009176637607298617,
+      "trade_count": 10,
+      "win_count": 0,
+      "loss_count": 10,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.04
+  },
+  {
+    "id": "5037e7d55ee93457",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 5,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -1835.3275214597318,
+      "gross_pnl": -828.125,
+      "fee": 1007.2025214597318,
+      "return_rate": -0.018353275214597318,
+      "final_equity": 98164.67247854026,
+      "max_drawdown": 1933.8221919476346,
+      "max_drawdown_rate": 0.019338221919476345,
+      "trade_count": 19,
+      "win_count": 1,
+      "loss_count": 18,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "5d1e6129081fe460",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 5,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -1618.2543624355353,
+      "gross_pnl": -664.0625,
+      "fee": 954.1918624355353,
+      "return_rate": -0.016182543624355353,
+      "final_equity": 98381.74563756447,
+      "max_drawdown": 1646.4365329234279,
+      "max_drawdown_rate": 0.0164597266210161,
+      "trade_count": 18,
+      "win_count": 0,
+      "loss_count": 18,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "c7b60f437d38a0c2",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -2540.1293624355353,
+      "gross_pnl": -1585.9375,
+      "fee": 954.1918624355353,
+      "return_rate": -0.025401293624355354,
+      "final_equity": 97459.87063756447,
+      "max_drawdown": 2604.306203411339,
+      "max_drawdown_rate": 0.02603369129271674,
+      "trade_count": 18,
+      "win_count": 0,
+      "loss_count": 18,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "3aa0b89252423a72",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -307.46947707258914,
+      "gross_pnl": -148.4375,
+      "fee": 159.03197707258914,
+      "return_rate": -0.0030746947707258913,
+      "final_equity": 99692.53052292741,
+      "max_drawdown": 356.0213180483843,
+      "max_drawdown_rate": 0.003558932154581913,
+      "trade_count": 3,
+      "win_count": 0,
+      "loss_count": 3,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.04
+  },
+  {
+    "id": "9bfcbfdce92d1470",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -668.5213180483928,
+      "gross_pnl": -562.5,
+      "fee": 106.02131804839276,
+      "return_rate": -0.006685213180483928,
+      "final_equity": 99331.4786819516,
+      "max_drawdown": 982.6981590241921,
+      "max_drawdown_rate": 0.00981884474595523,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "a8db84724a9d5a91",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 10,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -1562.4617263387495,
+      "gross_pnl": -820.3125,
+      "fee": 742.1492263387495,
+      "return_rate": -0.015624617263387494,
+      "final_equity": 98437.53827366125,
+      "max_drawdown": 1590.6438968266448,
+      "max_drawdown_rate": 0.015906438968266448,
+      "trade_count": 14,
+      "win_count": 0,
+      "loss_count": 14,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:38+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "88baa4c56ca3dda1",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 15,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -588.147772193571,
+      "gross_pnl": -164.0625,
+      "fee": 424.085272193571,
+      "return_rate": -0.0058814777219357095,
+      "final_equity": 99411.85222780643,
+      "max_drawdown": 760.594477072591,
+      "max_drawdown_rate": 0.007603208021052223,
+      "trade_count": 8,
+      "win_count": 0,
+      "loss_count": 8,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "ade473204c915368",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 15,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -315.28197707258914,
+      "gross_pnl": -156.25,
+      "fee": 159.03197707258914,
+      "return_rate": -0.0031528197707258914,
+      "final_equity": 99684.71802292741,
+      "max_drawdown": 363.8338180483843,
+      "max_drawdown_rate": 0.003637029043863955,
+      "trade_count": 3,
+      "win_count": 0,
+      "loss_count": 3,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.04
+  },
+  {
+    "id": "85e8c88d47349e14",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 15,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -106.02131804839276,
+      "gross_pnl": 0.0,
+      "fee": 106.02131804839276,
+      "return_rate": -0.0010602131804839277,
+      "final_equity": 99893.9786819516,
+      "max_drawdown": 664.0625,
+      "max_drawdown_rate": 0.006623640560760175,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "03029cc99c6d7905",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 15,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -165.16763609678554,
+      "gross_pnl": 46.875,
+      "fee": 212.04263609678554,
+      "return_rate": -0.0016516763609678554,
+      "final_equity": 99834.83236390322,
+      "max_drawdown": 546.875,
+      "max_drawdown_rate": 0.005454854050024669,
+      "trade_count": 4,
+      "win_count": 0,
+      "loss_count": 4,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "82abbb5ce65c0598",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -253.88711316937463,
+      "gross_pnl": 117.1875,
+      "fee": 371.07461316937463,
+      "return_rate": -0.0025388711316937465,
+      "final_equity": 99746.11288683063,
+      "max_drawdown": 676.3338180483843,
+      "max_drawdown_rate": 0.006757210595251631,
+      "trade_count": 7,
+      "win_count": 3,
+      "loss_count": 4,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "2ca4f53bd9ca71df",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -199.77131804839274,
+      "gross_pnl": -93.75,
+      "fee": 106.02131804839276,
+      "return_rate": -0.0019977131804839276,
+      "final_equity": 99800.2286819516,
+      "max_drawdown": 303.01065902419214,
+      "max_drawdown_rate": 0.003027361313294515,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.04
+  },
+  {
+    "id": "28391c2569be3413",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -66.95881804839276,
+      "gross_pnl": 39.0625,
+      "fee": 106.02131804839276,
+      "return_rate": -0.0006695881804839275,
+      "final_equity": 99933.0411819516,
+      "max_drawdown": 664.0625,
+      "max_drawdown_rate": 0.006622092477454384,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "3080cd7aa0ae3690",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 20,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -47.98013609678554,
+      "gross_pnl": 164.0625,
+      "fee": 212.04263609678554,
+      "return_rate": -0.00047980136096785546,
+      "final_equity": 99952.01986390322,
+      "max_drawdown": 265.625,
+      "max_drawdown_rate": 0.0026538434371698237,
+      "trade_count": 4,
+      "win_count": 2,
+      "loss_count": 2,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "c10e30f0c53ca545",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 188.07170487901806,
+      "gross_pnl": 453.125,
+      "fee": 265.05329512098194,
+      "return_rate": 0.0018807170487901805,
+      "final_equity": 100188.07170487902,
+      "max_drawdown": 746.6463180483843,
+      "max_drawdown_rate": 0.007437059303621127,
+      "trade_count": 5,
+      "win_count": 2,
+      "loss_count": 3,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "f4a921859a464e10",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "3340af0a7b95f59a",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -34.03197707258914,
+      "gross_pnl": 125.0,
+      "fee": 159.03197707258914,
+      "return_rate": -0.0003403197707258914,
+      "final_equity": 99965.96802292741,
+      "max_drawdown": 746.6463180483843,
+      "max_drawdown_rate": 0.007437059303621127,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "f70ecf29c7f6777b",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -35.70881804839276,
+      "gross_pnl": 70.3125,
+      "fee": 106.02131804839276,
+      "return_rate": -0.0003570881804839276,
+      "final_equity": 99964.2911819516,
+      "max_drawdown": 320.3125,
+      "max_drawdown_rate": 0.0031962312989605884,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "2aedf7bea9ef7c5b",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 51.90552292741086,
+      "gross_pnl": 210.9375,
+      "fee": 159.03197707258914,
+      "return_rate": 0.0005190552292741085,
+      "final_equity": 100051.90552292741,
+      "max_drawdown": 500.0,
+      "max_drawdown_rate": 0.004997420348083424,
+      "trade_count": 3,
+      "win_count": 2,
+      "loss_count": 1,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "c6074ca9cacd25ff",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:39+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "eee5ddfcd704adfa",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -131.13565902419637,
+      "gross_pnl": -78.125,
+      "fee": 53.01065902419638,
+      "return_rate": -0.0013113565902419637,
+      "final_equity": 99868.86434097581,
+      "max_drawdown": 500.0,
+      "max_drawdown_rate": 0.004997420348083424,
+      "trade_count": 1,
+      "win_count": 0,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:40+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "23a3327e874ef82c",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 30,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -12.271318048392757,
+      "gross_pnl": 93.75,
+      "fee": 106.02131804839276,
+      "return_rate": -0.00012271318048392757,
+      "final_equity": 99987.7286819516,
+      "max_drawdown": 201.44815902419214,
+      "max_drawdown_rate": 0.002011243595243051,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:40+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "93c0e8295fd46d4a",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:40+09:00",
+    "elapsed_seconds": 0.13
+  },
+  {
+    "id": "a71d76b407a4b3c7",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:40+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "7bdb36790f82a35e",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:40+09:00",
+    "elapsed_seconds": 0.04
+  },
+  {
+    "id": "9f1cd6c99851bc3f",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:40+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "30e779649d14a068",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 35,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 314.1768409758036,
+      "gross_pnl": 367.1875,
+      "fee": 53.01065902419638,
+      "return_rate": 0.003141768409758036,
+      "final_equity": 100314.17684097581,
+      "max_drawdown": 328.125,
+      "max_drawdown_rate": 0.0032780213236987,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:56+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "23b608913e49e395",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 35,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:56+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "4a8cb60a87488352",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 35,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 87.61434097580363,
+      "gross_pnl": 140.625,
+      "fee": 53.01065902419638,
+      "return_rate": 0.0008761434097580363,
+      "final_equity": 100087.61434097581,
+      "max_drawdown": 328.125,
+      "max_drawdown_rate": 0.0032780213236987,
+      "trade_count": 1,
+      "win_count": 1,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:56+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "ae79cc96adf3ac5b",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 35,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:56+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "63dd4d2656cbb686",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 94.32170487901806,
+      "gross_pnl": 359.375,
+      "fee": 265.05329512098194,
+      "return_rate": 0.0009432170487901805,
+      "final_equity": 100094.32170487902,
+      "max_drawdown": 770.0838180483843,
+      "max_drawdown_rate": 0.007675887158875358,
+      "trade_count": 5,
+      "win_count": 2,
+      "loss_count": 3,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:56+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "f00ae5d782911794",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:56+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "de431743a0f7d6ba",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -127.78197707258914,
+      "gross_pnl": 31.25,
+      "fee": 159.03197707258914,
+      "return_rate": -0.0012778197707258914,
+      "final_equity": 99872.21802292741,
+      "max_drawdown": 770.0838180483843,
+      "max_drawdown_rate": 0.007675887158875358,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "6d61418ff9b5648e",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.02,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -35.70881804839276,
+      "gross_pnl": 70.3125,
+      "fee": 106.02131804839276,
+      "return_rate": -0.0003570881804839276,
+      "final_equity": 99964.2911819516,
+      "max_drawdown": 320.3125,
+      "max_drawdown_rate": 0.0031962312989605884,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "1e06db8935a10523",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -3.8871131693746293,
+      "gross_pnl": 367.1875,
+      "fee": 371.07461316937463,
+      "return_rate": -3.8871131693746295e-05,
+      "final_equity": 99996.11288683063,
+      "max_drawdown": 901.219477072591,
+      "max_drawdown_rate": 0.008977402204757833,
+      "trade_count": 7,
+      "win_count": 2,
+      "loss_count": 5,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "0b443110ec363d0a",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "269366283763fbfc",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -196.41763609678554,
+      "gross_pnl": 15.625,
+      "fee": 212.04263609678554,
+      "return_rate": -0.0019641763609678556,
+      "final_equity": 99803.58236390322,
+      "max_drawdown": 901.219477072591,
+      "max_drawdown_rate": 0.008977402204757833,
+      "trade_count": 4,
+      "win_count": 1,
+      "loss_count": 3,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "b4c35e00c3dec4bc",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.05,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -65.28197707258914,
+      "gross_pnl": 93.75,
+      "fee": 159.03197707258914,
+      "return_rate": -0.0006528197707258914,
+      "final_equity": 99934.71802292741,
+      "max_drawdown": 324.7713180483843,
+      "max_drawdown_rate": 0.0032402183231629044,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "d3ba2eee62cd38ec",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 352.13420487901806,
+      "gross_pnl": 617.1875,
+      "fee": 265.05329512098194,
+      "return_rate": 0.0035213420487901805,
+      "final_equity": 100352.13420487902,
+      "max_drawdown": 356.0213180483988,
+      "max_drawdown_rate": 0.003536168179168199,
+      "trade_count": 5,
+      "win_count": 3,
+      "loss_count": 2,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "56809f2f9f2d2fcf",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "a4ca36d5bce2b295",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 237.72868195160726,
+      "gross_pnl": 343.75,
+      "fee": 106.02131804839276,
+      "return_rate": 0.0023772868195160728,
+      "final_equity": 100237.7286819516,
+      "max_drawdown": 170.19815902419214,
+      "max_drawdown_rate": 0.0016971278949111121,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "1a0d45f16d57c879",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -143.40697707258914,
+      "gross_pnl": 15.625,
+      "fee": 159.03197707258914,
+      "return_rate": -0.0014340697707258914,
+      "final_equity": 99856.59302292741,
+      "max_drawdown": 356.0213180483843,
+      "max_drawdown_rate": 0.0035536590898926136,
+      "trade_count": 3,
+      "win_count": 1,
+      "loss_count": 2,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "7f2ab9bd9ac7f5f7",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 537.9573639032144,
+      "gross_pnl": 750.0,
+      "fee": 212.04263609678554,
+      "return_rate": 0.005379573639032144,
+      "final_equity": 100537.95736390322,
+      "max_drawdown": 664.0625,
+      "max_drawdown_rate": 0.0066087060066233674,
+      "trade_count": 4,
+      "win_count": 3,
+      "loss_count": 1,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.16
+  },
+  {
+    "id": "266092a0c087c4eb",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.03
+  },
+  {
+    "id": "d2454337783b1d6a",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 136.16618195160726,
+      "gross_pnl": 242.1875,
+      "fee": 106.02131804839276,
+      "return_rate": 0.0013616618195160725,
+      "final_equity": 100136.1661819516,
+      "max_drawdown": 664.0625,
+      "max_drawdown_rate": 0.0066087060066233674,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:57+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "aa523f2c789e9426",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 58.04118195160724,
+      "gross_pnl": 164.0625,
+      "fee": 106.02131804839276,
+      "return_rate": 0.0005804118195160724,
+      "final_equity": 100058.0411819516,
+      "max_drawdown": 320.3125,
+      "max_drawdown_rate": 0.0031962312989605884,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "11996bfc8d72c370",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 444.20736390321446,
+      "gross_pnl": 656.25,
+      "fee": 212.04263609678554,
+      "return_rate": 0.004442073639032144,
+      "final_equity": 100444.20736390322,
+      "max_drawdown": 664.0625,
+      "max_drawdown_rate": 0.0066097338133893615,
+      "trade_count": 4,
+      "win_count": 3,
+      "loss_count": 1,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.17
+  },
+  {
+    "id": "7c3baecede008875",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.04
+  },
+  {
+    "id": "998f4f4fe8922093",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 120.54118195160724,
+      "gross_pnl": 226.5625,
+      "fee": 106.02131804839276,
+      "return_rate": 0.0012054118195160724,
+      "final_equity": 100120.5411819516,
+      "max_drawdown": 664.0625,
+      "max_drawdown_rate": 0.0066097338133893615,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.06
+  },
+  {
+    "id": "5e51bb546baf8be9",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.0005
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -20.083818048392757,
+      "gross_pnl": 85.9375,
+      "fee": 106.02131804839276,
+      "return_rate": -0.00020083818048392758,
+      "final_equity": 99979.9161819516,
+      "max_drawdown": 320.3125,
+      "max_drawdown_rate": 0.0031962312989605884,
+      "trade_count": 2,
+      "win_count": 1,
+      "loss_count": 1,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.07
+  },
+  {
+    "id": "82d19f836848ca0d",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-09-01",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 70.88420487901806,
+      "gross_pnl": 335.9375,
+      "fee": 265.05329512098194,
+      "return_rate": 0.0007088420487901806,
+      "final_equity": 100070.88420487902,
+      "max_drawdown": 435.82315902419214,
+      "max_drawdown_rate": 0.004349457255643213,
+      "trade_count": 5,
+      "win_count": 2,
+      "loss_count": 3,
+      "days": 61,
+      "bars": 9986
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.15
+  },
+  {
+    "id": "c10642df8c667952",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-09-01",
+    "end": "2026-09-21",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 0.0,
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "return_rate": 0.0,
+      "final_equity": 100000.0,
+      "max_drawdown": 0.0,
+      "max_drawdown_rate": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0,
+      "days": 18,
+      "bars": 2760
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.04
+  },
+  {
+    "id": "659d9e0ddcfdff8e",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": 83.15552292741086,
+      "gross_pnl": 242.1875,
+      "fee": 159.03197707258914,
+      "return_rate": 0.0008315552292741086,
+      "final_equity": 100083.15552292741,
+      "max_drawdown": 435.82315902419214,
+      "max_drawdown_rate": 0.004349457255643213,
+      "trade_count": 3,
+      "win_count": 2,
+      "loss_count": 1,
+      "days": 18,
+      "bars": 3117
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.05
+  },
+  {
+    "id": "78b97cdea5437e1d",
+    "strategy_id": "week04_z3n_zn_spread",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.003
+    },
+    "start": "2026-10-13",
+    "end": "2026-11-10",
+    "slippage_ticks": 1,
+    "initial_capital": 100000.0,
+    "fee_rate": 8.5e-05,
+    "summary": {
+      "net_pnl": -59.14631804839276,
+      "gross_pnl": 46.875,
+      "fee": 106.02131804839276,
+      "return_rate": -0.0005914631804839276,
+      "final_equity": 99940.8536819516,
+      "max_drawdown": 107.69815902419214,
+      "max_drawdown_rate": 0.0010766781589675552,
+      "trade_count": 2,
+      "win_count": 0,
+      "loss_count": 2,
+      "days": 25,
+      "bars": 4109
+    },
+    "created_at": "2026-11-11T15:36:58+09:00",
+    "elapsed_seconds": 0.06
+  }
+]

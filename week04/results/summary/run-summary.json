@@ -1,0 +1,264 @@
+[
+  {
+    "strategy_id": "week04_zf_zn_spread",
+    "run_id": "20261112_124437",
+    "mode": "backtest",
+    "source": "results/week04_zf_zn_spread/backtest/20261112_124437",
+    "params": {
+      "window_days": 40,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "started_at": "2026-11-12T12:44:37.731342+09:00",
+    "ended_at": "2026-11-12T12:44:47.958856+09:00",
+    "duration_seconds": 10.227514,
+    "period": {
+      "start": "2026-08-11",
+      "end": "2026-11-11"
+    },
+    "summary": {
+      "initial_capital": 100000.0,
+      "final_equity": 99665.12729563296,
+      "gross_pnl": 23.4375,
+      "fee": 358.3102043670438,
+      "net_pnl": -334.8727043670438,
+      "return_rate": -0.003348727043670438,
+      "trade_count": 4,
+      "win_count": 0,
+      "loss_count": 4,
+      "max_drawdown": 1390.0926021835185,
+      "max_drawdown_rate": 0.013895713923888105,
+      "days": 80,
+      "bars": 17675
+    },
+    "journal_counts": {
+      "decision": 17675,
+      "order": 8,
+      "fill": 8,
+      "event": 82,
+      "trade": 4
+    },
+    "decision_reasons": {
+      "같은 날 연속한 직전 봉이 없어 진입 판단 보류": 185,
+      "직전 봉이 진입 경계 밖이라 돌파 아님": 1,
+      "스프레드가 진입 경계 안": 10213,
+      "스프레드 102.1562가 진입 상단 102.1406을 넘음 (스프레드 매도)": 1,
+      "청산 경계에 닿지 않아 보유": 7264,
+      "스프레드 101.9609가 청산 상단 101.9612 이하로 돌아옴": 1,
+      "청산 완료 전에 마감한 봉이 있어 재진입 보류": 4,
+      "스프레드 101.6484가 진입 하단 101.6797 밑으로 내려감 (스프레드 매수)": 1,
+      "스프레드 101.8594가 청산 하단 101.8278 이상으로 돌아옴": 1,
+      "스프레드 101.6562가 진입 하단 101.6641 밑으로 내려감 (스프레드 매수)": 1,
+      "스프레드 101.8359가 청산 하단 101.8278 이상으로 돌아옴": 1,
+      "스프레드 101.6172가 진입 하단 101.6641 밑으로 내려감 (스프레드 매수)": 1,
+      "스프레드 101.6016가 청산 하단 101.5975 이상으로 돌아옴": 1
+    },
+    "max_holding_days": 27.01388888888889
+  },
+  {
+    "strategy_id": "week04_zf_zn_spread",
+    "run_id": "20261112_124551",
+    "mode": "backtest",
+    "source": "results/week04_zf_zn_spread/backtest/20261112_124551",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "started_at": "2026-11-12T12:45:51.000028+09:00",
+    "ended_at": "2026-11-12T12:46:01.365021+09:00",
+    "duration_seconds": 10.364993,
+    "period": {
+      "start": "2026-08-11",
+      "end": "2026-11-11"
+    },
+    "summary": {
+      "initial_capital": 100000.0,
+      "final_equity": 100328.65739781648,
+      "gross_pnl": 507.8125,
+      "fee": 179.1551021835219,
+      "net_pnl": 328.6573978164781,
+      "return_rate": 0.003286573978164781,
+      "trade_count": 2,
+      "win_count": 2,
+      "loss_count": 0,
+      "max_drawdown": 1152.0775510917592,
+      "max_drawdown_rate": 0.01147928235635377,
+      "days": 80,
+      "bars": 17675
+    },
+    "journal_counts": {
+      "decision": 17675,
+      "event": 82,
+      "order": 4,
+      "fill": 4,
+      "trade": 2
+    },
+    "decision_reasons": {
+      "같은 날 연속한 직전 봉이 없어 진입 판단 보류": 458,
+      "스프레드가 진입 경계 안": 12714,
+      "스프레드 102.4375가 진입 상단 102.4297을 넘음 (스프레드 매도)": 1,
+      "청산 경계에 닿지 않아 보유": 4497,
+      "스프레드 101.9766가 청산 상단 101.9808 이하로 돌아옴": 1,
+      "청산 완료 전에 마감한 봉이 있어 재진입 보류": 2,
+      "스프레드 101.4375가 진입 하단 101.4453 밑으로 내려감 (스프레드 매수)": 1,
+      "스프레드 101.7109가 청산 하단 101.7029 이상으로 돌아옴": 1
+    },
+    "max_holding_days": 20.868055555555557
+  },
+  {
+    "strategy_id": "week04_zf_zn_spread",
+    "run_id": "20261111_130254",
+    "mode": "paper",
+    "source": "results/week04_zf_zn_spread/paper/20261111_130254",
+    "params": {
+      "window_days": 60,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "started_at": "2026-11-11T13:02:54.847451+09:00",
+    "ended_at": "2026-11-11T15:09:20.984296+09:00",
+    "duration_seconds": 7586.136845,
+    "period": null,
+    "summary": {
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "fee_estimated": true,
+      "net_pnl": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0
+    },
+    "journal_counts": {
+      "event": 6,
+      "decision": 24
+    },
+    "decision_reasons": {
+      "같은 날 연속한 직전 봉이 없어 진입 판단 보류": 1,
+      "스프레드가 진입 경계 안": 23
+    },
+    "max_holding_days": 0,
+    "account_changes": {
+      "fee_change": 0.0,
+      "realized_pnl_change": 0.0
+    },
+    "decision_first": "2026-11-11T13:10:00+09:00",
+    "decision_last": "2026-11-11T15:05:00+09:00",
+    "spread_min": 101.0390625,
+    "spread_max": 101.09375,
+    "bands": [
+      {
+        "entry_lower": 101.0015625,
+        "entry_upper": 101.90703125,
+        "median": 101.4140625,
+        "exit_lower": 101.3126484375,
+        "exit_upper": 101.5154765625
+      }
+    ]
+  },
+  {
+    "strategy_id": "week04_z3n_zn_spread",
+    "run_id": "20261112_124806",
+    "mode": "backtest",
+    "source": "results/week04_z3n_zn_spread/backtest/20261112_124806",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0,
+      "exit_buffer_ratio": 0.001
+    },
+    "started_at": "2026-11-12T12:48:06.469945+09:00",
+    "ended_at": "2026-11-12T12:48:13.365660+09:00",
+    "duration_seconds": 6.895715,
+    "period": {
+      "start": "2026-09-09",
+      "end": "2026-11-11"
+    },
+    "summary": {
+      "initial_capital": 100000.0,
+      "final_equity": 99835.07500040837,
+      "gross_pnl": 46.875,
+      "fee": 211.79999959163678,
+      "net_pnl": -164.92499959163678,
+      "return_rate": -0.0016492499959163678,
+      "trade_count": 4,
+      "win_count": 1,
+      "loss_count": 3,
+      "max_drawdown": 662.3249998979009,
+      "max_drawdown_rate": 0.006620347804007048,
+      "days": 55,
+      "bars": 9183
+    },
+    "journal_counts": {
+      "decision": 9183,
+      "event": 57,
+      "order": 7,
+      "fill": 8,
+      "trade": 4
+    },
+    "decision_reasons": {
+      "일봉 스프레드 25개가 모자라 판단 보류": 1788,
+      "스프레드가 진입 경계 안": 3004,
+      "같은 날 연속한 직전 봉이 없어 진입 판단 보류": 679,
+      "직전 봉이 진입 경계 밖이라 돌파 아님": 2,
+      "스프레드 100.3438가 진입 상단 100.3359을 넘음 (스프레드 매도)": 2,
+      "청산 경계에 닿지 않아 보유": 3700,
+      "스프레드 100.2344가 청산 상단 100.2486 이하로 돌아옴": 1,
+      "청산 완료 전에 마감한 봉이 있어 재진입 보류": 3,
+      "스프레드 100.3047가 청산 상단 100.3346 이하로 돌아옴": 1,
+      "스프레드 99.8906가 진입 하단 99.8984 밑으로 내려감 (스프레드 매수)": 1,
+      "스프레드 100.1328가 청산 하단 100.0795 이상으로 돌아옴": 1,
+      "스프레드 99.8828가 진입 하단 99.8984 밑으로 내려감 (스프레드 매수)": 1
+    },
+    "max_holding_days": 14.239583333333334
+  },
+  {
+    "strategy_id": "week04_z3n_zn_spread",
+    "run_id": "20261111_161507",
+    "mode": "paper",
+    "source": "results/week04_z3n_zn_spread/paper/20261111_161507",
+    "params": {
+      "window_days": 25,
+      "entry_pct": 0.1,
+      "exit_buffer_ratio": 0.001
+    },
+    "started_at": "2026-11-11T16:15:07.301621+09:00",
+    "ended_at": "2026-11-11T17:20:51.555195+09:00",
+    "duration_seconds": 3944.253574,
+    "period": null,
+    "summary": {
+      "gross_pnl": 0.0,
+      "fee": 0.0,
+      "fee_estimated": true,
+      "net_pnl": 0.0,
+      "trade_count": 0,
+      "win_count": 0,
+      "loss_count": 0
+    },
+    "journal_counts": {
+      "event": 6,
+      "decision": 5
+    },
+    "decision_reasons": {
+      "같은 날 연속한 직전 봉이 없어 진입 판단 보류": 1,
+      "스프레드가 진입 경계 안": 4
+    },
+    "max_holding_days": 0,
+    "account_changes": {
+      "fee_change": 0.0,
+      "realized_pnl_change": 0.0
+    },
+    "decision_first": "2026-11-11T17:00:00+09:00",
+    "decision_last": "2026-11-11T17:20:00+09:00",
+    "spread_min": 99.953125,
+    "spread_max": 99.984375,
+    "bands": [
+      {
+        "entry_lower": 99.953125,
+        "entry_upper": 100.5484375,
+        "median": 100.1015625,
+        "exit_lower": 100.0014609375,
+        "exit_upper": 100.2016640625
+      }
+    ]
+  }
+]
