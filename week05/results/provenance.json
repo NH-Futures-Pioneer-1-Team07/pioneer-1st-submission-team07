@@ -1,0 +1,719 @@
+{
+  "source_repository": "https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07",
+  "source_branch": "week5",
+  "code_reference_commit": "51c14309de1ac1c6db9f05790eae8c0ea9a4da67",
+  "captured_on": "2026-11-18",
+  "timezone": "Asia/Seoul",
+  "note": "Source working-tree artifacts copied without modification. report.md is stored as report.txt to keep one Markdown report per week. results/summary/ files are derived by this report from the NH 5-minute bar cache (backend/data/minute_cache/, not committed in the code repository) and from sweeps/ and are excluded from this manifest.",
+  "security_check": "No match for APP key, secret, token, authorization, or account-number patterns in copied files (case-insensitive keyword scan of week05/results). Backtest and sweep files hold no account identifiers.",
+  "files": [
+    {
+      "source": "backend/reports/week05_kospi200_basis_zscore/파라미터-검증/report.md",
+      "destination": "results/analysis/week05_kospi200_basis_zscore/report.txt",
+      "sha256": "0328456a2c41f95431df53b38bcf440c0ac01f487b1ebdc4c9aeb16d5c02fe9d",
+      "bytes": 14882
+    },
+    {
+      "source": "backend/reports/week05_kospi200_basis_zscore/파라미터-검증/table.csv",
+      "destination": "results/analysis/week05_kospi200_basis_zscore/table.csv",
+      "sha256": "ea63f76161476a4f707e918715e9220f49b219aa7a31e65d6dc4377ff9d610e6",
+      "bytes": 7687
+    },
+    {
+      "source": "backend/strategies/week05_kospi200_basis_zscore/manifest.json",
+      "destination": "results/strategies/week05_kospi200_basis_zscore/manifest.json",
+      "sha256": "bd948dc529acf3cb78a05028f882ded6cfef7495df6b5652e8e8a5a7543d6576",
+      "bytes": 1500
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/requests/20261118-entry-z-exit-return.json",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/requests/20261118-entry-z-exit-return.json",
+      "sha256": "6dc795af0771890d49a44a65440ef4192fea81050e5f8d6e5980ed62826d155f",
+      "bytes": 360
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/requests/20261118-window-bars.json",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/requests/20261118-window-bars.json",
+      "sha256": "25b211f7fa966a5ac4375288ea420f1fc6c4bea0b608c43ebed89728d61e7c9c",
+      "bytes": 325
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/results.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/results.jsonl",
+      "sha256": "3f7f699baad57bef3496bf97b5c8fbac9d1c3d75e71dd74c9a07284d3ae38f92",
+      "bytes": 126383
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/09e59882cdf0f831.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/09e59882cdf0f831.jsonl",
+      "sha256": "b10064066586c142483c1e7699731a48f46d4b59c356fb1e157bdc2b4356e893",
+      "bytes": 53740
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/0a35cf7b5661176a.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/0a35cf7b5661176a.jsonl",
+      "sha256": "d17a690e6b5b44c534f68f4d5200a914d0b652896fb2dbe379c7836fad9b9d78",
+      "bytes": 34101
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/0d73d9fdb7e4ffc9.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/0d73d9fdb7e4ffc9.jsonl",
+      "sha256": "3d11a51456872d9e92f43ab48473f458516619343fa75b9a9ce9aec023697edf",
+      "bytes": 13107
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/0d9ea89578d8fe82.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/0d9ea89578d8fe82.jsonl",
+      "sha256": "baf7234688df49ff054466a5ebc4bbe03c043bab3639e2da9f7121d82146e4a9",
+      "bytes": 29371
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/10ee01cab30d6aea.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/10ee01cab30d6aea.jsonl",
+      "sha256": "74236c65cb5d1b5809abde7ec68c65c8775a4384d3c5086947df3e9aecdd1c70",
+      "bytes": 6813
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/19b15a25d399b583.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/19b15a25d399b583.jsonl",
+      "sha256": "451981f383d32ff02af230b63274e4686118e13ceb0669b31672c06b0383d9a3",
+      "bytes": 6029
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/1bac6c7714586d26.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/1bac6c7714586d26.jsonl",
+      "sha256": "a2accfa1d3105d4283919501fa51e3f4205eed83ae35779aedee2539ba15bd20",
+      "bytes": 43472
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/1e15b960762440f0.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/1e15b960762440f0.jsonl",
+      "sha256": "c588eab593e60c500f95c93d54fbbd6c56faadaf631111819b93881d38aff74a",
+      "bytes": 13982
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/2136853725da757d.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/2136853725da757d.jsonl",
+      "sha256": "e93e6b0b5b22adf9c598a8cdb7980c94a5aab722db12865f5b5c9fcf4d224fa3",
+      "bytes": 88555
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/21d7047d69f1078b.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/21d7047d69f1078b.jsonl",
+      "sha256": "e5fd7b4d51073a4a5c8316772ca0ef056ab3ff739f45b1d78ab5236b38348f14",
+      "bytes": 12206
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/26e5e6a4eab7ce2b.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/26e5e6a4eab7ce2b.jsonl",
+      "sha256": "a1a9e0306ec585c64250f3165dda7b3cd772bc7277d11742745f6ea6ffbf5f53",
+      "bytes": 7763
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/2a9bb5f9b6082e81.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/2a9bb5f9b6082e81.jsonl",
+      "sha256": "9a0bea04720aa60841332dad8f3d7e9a7d7ed3861fd6a08937b06808a4f98828",
+      "bytes": 13893
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/2d2d4f08f2edbf50.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/2d2d4f08f2edbf50.jsonl",
+      "sha256": "eca4729977e6d53ef074c3ef54a7ab95f0a2bc375e596813da07961b0e784096",
+      "bytes": 19279
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/30cf2f61acc46092.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/30cf2f61acc46092.jsonl",
+      "sha256": "010a08f91b059cc17ae4116e6700973d2ea36780826420e0af963d224280cae3",
+      "bytes": 13983
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/32f0b807d25301e2.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/32f0b807d25301e2.jsonl",
+      "sha256": "57e021a5b6c1137d6ff70346dfeaa7f73025f508588b003d8c1c701b3887a205",
+      "bytes": 23559
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/37d5c52ffd812648.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/37d5c52ffd812648.jsonl",
+      "sha256": "a30e6093b2927513f39eb8d3e6cecd1979023e1f60d1eda89d7549d1c8aa83bf",
+      "bytes": 17245
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/39a0cd071d869e38.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/39a0cd071d869e38.jsonl",
+      "sha256": "cec02b6d3351ee39714140d0575969771622c3c9941adc2cfcb412a65852771a",
+      "bytes": 5238
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/3ad5d62575ccd325.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/3ad5d62575ccd325.jsonl",
+      "sha256": "0f6722b62eed616fcb9949c8b4ffd0007f42fbc4edb8976e60fbc95ba3cd45c5",
+      "bytes": 23483
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/3ff0231a23f84680.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/3ff0231a23f84680.jsonl",
+      "sha256": "da7f4a1cc4713b738261fe1418b05f8949d880c5195ebc3ba6597054b90012ca",
+      "bytes": 13047
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/401371a362b1cb32.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/401371a362b1cb32.jsonl",
+      "sha256": "49099aac34a3059b651f215d89084e7184a64a26129e09ac890c2213542dbc85",
+      "bytes": 52311
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/420d8be79d35e4c8.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/420d8be79d35e4c8.jsonl",
+      "sha256": "b82f56495a1a93165e6d199fe6bc523d9674a2c3f872b4da978116e0fd0c96dc",
+      "bytes": 38385
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/4f7c22d5f0fed8f6.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/4f7c22d5f0fed8f6.jsonl",
+      "sha256": "da88b08465ac70137dba073d335cc5c4a0ace8d9da13c270ff491e74102074e9",
+      "bytes": 7756
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/53ff52a0437419b3.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/53ff52a0437419b3.jsonl",
+      "sha256": "cedc7e47180ad5e606b7a1cfbec87aa127588ac0fcc21a0232297e135620fdd2",
+      "bytes": 8653
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/548005d7f85cb381.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/548005d7f85cb381.jsonl",
+      "sha256": "79b71c67ab5252e013fdded7f67f0af5e518a6bbc66a9caf70bc0cf689f6a0b4",
+      "bytes": 10488
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/5521cb6be3d07258.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/5521cb6be3d07258.jsonl",
+      "sha256": "54a94e4bdbe30b758ac3a29d05056cebfb28a985c7561814e6d6abe30b10834b",
+      "bytes": 27929
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/56b4da3bf62c812e.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/56b4da3bf62c812e.jsonl",
+      "sha256": "f352900b7d0363ee4835110323b67ee090da6e3ca20276f426a021b276fa8de3",
+      "bytes": 18123
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/5849de3f4125aee0.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/5849de3f4125aee0.jsonl",
+      "sha256": "b36e115c6b9b913feb5727e36b15a8e9744c11f2eee262bd9cfa41c2c681389b",
+      "bytes": 64434
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/5a38622e6f9517a9.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/5a38622e6f9517a9.jsonl",
+      "sha256": "93a0ff04b5feb9c3c27afd186074e4f7b82dbd68a34dfb5ddd9781115ee26e7d",
+      "bytes": 130692
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/5bf4c94c8de40930.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/5bf4c94c8de40930.jsonl",
+      "sha256": "bfde7e463f68497d976a4de33147c81b6875f507a16ab948424b9cf0675ce05a",
+      "bytes": 18340
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/5c8715c7c5f7cf29.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/5c8715c7c5f7cf29.jsonl",
+      "sha256": "6fa2c7d263c7949b6830d25098f8b1cca228dbc9e3a52a5f02a60b69950b24c0",
+      "bytes": 12041
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/60f4c49dbae64027.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/60f4c49dbae64027.jsonl",
+      "sha256": "ac60b6c3d3797dd4649582e3108effa3ee9f5f8369c976e007d400c2a689ac5a",
+      "bytes": 37275
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/62bb58ce8a2e111f.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/62bb58ce8a2e111f.jsonl",
+      "sha256": "08a241a78adfe8a7ed7485355862cf86aee27e9ca2c216525adad718c9bc837d",
+      "bytes": 54878
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/63f0f637f00fe959.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/63f0f637f00fe959.jsonl",
+      "sha256": "28e45bc2296442542d50548eec1013ca660230d8affb8dfdc428e3f6a4a51a81",
+      "bytes": 24349
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/6cb0d64c89d26f2e.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/6cb0d64c89d26f2e.jsonl",
+      "sha256": "13c08ee410b8781b68666a10f247c58962715dac1840a2f6faad578bd2367bc0",
+      "bytes": 7900
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/723d093e6d49d8a4.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/723d093e6d49d8a4.jsonl",
+      "sha256": "c203170cb6b6f0ac1527ae27d2436917e458df4d2bf52817a2eb419a95d247d4",
+      "bytes": 18302
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/7daf7f6a6976729d.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/7daf7f6a6976729d.jsonl",
+      "sha256": "a551dd1a24ad1c6ed2ee39ce3f05d076a655bf99c126e996afe7258b68d1b989",
+      "bytes": 6970
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/811bce47feeb2f84.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/811bce47feeb2f84.jsonl",
+      "sha256": "bef7ad97e072348c6e3cfffd0939c934c609de5f425879e220878b3c9b3f6faf",
+      "bytes": 9538
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/88689811b856ab46.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/88689811b856ab46.jsonl",
+      "sha256": "3d8b8451175e2df7a2c4062e8db7c6b8a50a003f9f16c53a4de3009edcf108a3",
+      "bytes": 3530
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/8aacfb44f61ce3f2.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/8aacfb44f61ce3f2.jsonl",
+      "sha256": "dea63be4bdd00f407769813d1422464bb8828ed03eee6d4df0ff07aab25eb182",
+      "bytes": 24399
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/8b69d4bd66aa8656.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/8b69d4bd66aa8656.jsonl",
+      "sha256": "959bf88e99f68e01181dc29331d4e2a2aa2d247e30911aa46cbd3fabadfe7270",
+      "bytes": 29584
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/8db36b55314e8fb1.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/8db36b55314e8fb1.jsonl",
+      "sha256": "c1b8ad973b6407e9eee89e7126732899457a8b3e92a89f2d2891fdd3775a1e23",
+      "bytes": 9669
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/8e99aeafcc4bba64.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/8e99aeafcc4bba64.jsonl",
+      "sha256": "f16c9ae67980daa60c9afd9f7bd1005e075f08655b9ba31deb9bacd357c9ce60",
+      "bytes": 59155
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/97a784c40cf148b5.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/97a784c40cf148b5.jsonl",
+      "sha256": "40975aca72209c931e57e919b2343860864cbb3053a85e3648b4ee9f96c424a3",
+      "bytes": 23485
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/97a89585394de20a.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/97a89585394de20a.jsonl",
+      "sha256": "19e20627ae7063d18a456d1d2d15356929971bc0a1fcd47fe8305cb256f58c1b",
+      "bytes": 47088
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/9aec58cd19e4b942.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/9aec58cd19e4b942.jsonl",
+      "sha256": "326bc6d88b9e18fdb2fcb47379a517d307d933f4301affda63e99d90b124a683",
+      "bytes": 5154
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/a31dbc646784fa04.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/a31dbc646784fa04.jsonl",
+      "sha256": "a4d5ffe969cf43333df87c824c81b123cd24b6866f82107e3d2875f7ddb74125",
+      "bytes": 6120
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/a40609ac89cc2539.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/a40609ac89cc2539.jsonl",
+      "sha256": "3e645873765b3d95f1d7063ea93496198687ea0df6d379d4f31cf67bf59c0fbf",
+      "bytes": 21737
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/b060654fe9d95780.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/b060654fe9d95780.jsonl",
+      "sha256": "e65a8d2ab18653baed8939d441f9c756f9cd26c31e68251169c6dfa92ef93418",
+      "bytes": 10490
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/b3e6cb21d6571d03.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/b3e6cb21d6571d03.jsonl",
+      "sha256": "c10233c5a83b6bfd2c33a3d20a355d6ba1a7e2fa7daad1285b0293bad6d8e93a",
+      "bytes": 24341
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/c43e575a3401f3f5.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/c43e575a3401f3f5.jsonl",
+      "sha256": "5af912426afa9f6e1103d6c53b1e2eacce20c50c3fac9e77a010dbe780825c80",
+      "bytes": 11378
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/cac1b871b12b333a.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/cac1b871b12b333a.jsonl",
+      "sha256": "5803308056a5d53d4186dfb78ba44e1ba00bb8337e46634d6ab52e88283cd9f1",
+      "bytes": 11376
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/d4e9167cfd36f412.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/d4e9167cfd36f412.jsonl",
+      "sha256": "178f239a3661256ef465bd98a96172f820ea9b6cef8e42b15e7aa29fb5ba0caf",
+      "bytes": 18186
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/d77e9ade12727d7c.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/d77e9ade12727d7c.jsonl",
+      "sha256": "baead36942703ed3044421942a767c14a831a0df134fefa3bf497b767de992c8",
+      "bytes": 21569
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/e1814744bf7be84a.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/e1814744bf7be84a.jsonl",
+      "sha256": "cf8a3e5053fa7bafdfb08cb9cbf43bfcdf7eb3ac30aa7224ba5cb1bd51d30dd6",
+      "bytes": 24573
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/eb7bf4ed97233b28.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/eb7bf4ed97233b28.jsonl",
+      "sha256": "be6a7064a133986956db8b4a69003424cfe967ca7a1c55ca7d9bfe631b7e7fe6",
+      "bytes": 10328
+    },
+    {
+      "source": "backend/sweeps/week05_kospi200_basis_zscore/trades/f17c4121486fb806.jsonl",
+      "destination": "results/sweeps/week05_kospi200_basis_zscore/trades/f17c4121486fb806.jsonl",
+      "sha256": "575fb7ff16af5317d26fb533a0ba6cebc3946192139cc17efbee76c009edf6cd",
+      "bytes": 22581
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-08-31.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-08-31.jsonl",
+      "sha256": "4d5c33a3eae46f3d2be2a5f7004f01daf3205de4d15723d2850aa54f3ec9ff80",
+      "bytes": 30763
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-01.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-01.jsonl",
+      "sha256": "08daa9fa0e1d10fb923f3ebd692be3036c0d4b34cf3e35f3094736597942a532",
+      "bytes": 21539
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-02.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-02.jsonl",
+      "sha256": "8a4199ed7028fcee5ab473ceff9a75e762aac8a0622084f86d8f399e7af0d7c7",
+      "bytes": 29234
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-03.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-03.jsonl",
+      "sha256": "da3e18f137e0b94b7e01a227865601b1d48d0fcd629caeaf2796e20010298321",
+      "bytes": 29514
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-04.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-04.jsonl",
+      "sha256": "3aaacb3966459d3db3c26ea7d18f2ef3c19a9c815cedcf19272aaab41de81f57",
+      "bytes": 42950
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-07.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-07.jsonl",
+      "sha256": "08b40583384ca584480297f754827791d9fda3585c5a971700724ec93a553292",
+      "bytes": 43415
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-08.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-08.jsonl",
+      "sha256": "780638844dc277f97c3d905fbe3c89ae7cafb342a0f50fbc0591d9e7a4eca35d",
+      "bytes": 47489
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-09.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-09.jsonl",
+      "sha256": "999eee77c80758ce970189374902888535192d9d9f72f5d10e477e8836a2bb2e",
+      "bytes": 45486
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-10.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-10.jsonl",
+      "sha256": "952811865c392e1ed8d58138fff20024c4685fb54ff86e7a1a91bab7ffcc4797",
+      "bytes": 45429
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-11.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-11.jsonl",
+      "sha256": "51bfbf2f7ee7ba93c930e523465a0d1fc6f8d913d61bda033cc0fa8495931785",
+      "bytes": 45432
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-14.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-14.jsonl",
+      "sha256": "838748c3e5749d337de0f8bda6bedcc4c534d23c62b6f4312716f42fc1bbe798",
+      "bytes": 43233
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-15.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-15.jsonl",
+      "sha256": "dd95672c4fa8a15e0830da34681e62f897028e92642e62b203fcbc09b4092a6a",
+      "bytes": 43391
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-16.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-16.jsonl",
+      "sha256": "03a825bcb278c5cf6bad738695d65f8f956383a28949ccc5ed91f0e62fb748ed",
+      "bytes": 42380
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-17.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-17.jsonl",
+      "sha256": "bb09eed0062b30b29fb4b978f75532a79b0ee2df36889a652b469354378254f2",
+      "bytes": 41284
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-18.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-18.jsonl",
+      "sha256": "8975aec2a0b35226705ade70933a3217edcc6fba8b3cc7c4448238f26f35823f",
+      "bytes": 43442
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-21.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-21.jsonl",
+      "sha256": "dbcc4c417c2bb4c03772e7d971222cbc8ba1f6ef23abd0bf5689aa1bf30522d7",
+      "bytes": 43447
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-22.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-22.jsonl",
+      "sha256": "7ba02155234c3898f62b14eafd3cedd3a0e4dfcfa443fdbe9f9619e95d26d7f7",
+      "bytes": 44155
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-23.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-23.jsonl",
+      "sha256": "ce819b169fe65f660953f8d70858f0c9122e88f8c4841e2e95a77841a4bf96e7",
+      "bytes": 42224
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-28.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-28.jsonl",
+      "sha256": "b7f79775d9b6a24e4181c7b44c5cf5d728f9f2b09cf262e1d4e41d4730085b82",
+      "bytes": 43379
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-29.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-29.jsonl",
+      "sha256": "68725e0c90d25e42d18f8a9171062cd586f9b2c76572ea84779551d5da221d6b",
+      "bytes": 41300
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-30.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-09-30.jsonl",
+      "sha256": "944bd6bd225e375e9786b0c24748fb1dbcc3403c501d0507fc4e2a5b2a55c0ac",
+      "bytes": 41409
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-01.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-01.jsonl",
+      "sha256": "0094a495be48ee21c94997e00967f9436e74a5d65269647adce0d71fb6654a8f",
+      "bytes": 45132
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-02.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-02.jsonl",
+      "sha256": "a90c598afb12447187149737859ec3f034f0a4b0f3aa149ae48cd364b6be7ab8",
+      "bytes": 42711
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-06.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-06.jsonl",
+      "sha256": "84bc1eff16db5362693fd82f99366b7928592d86055efea262bc5bcfddef82d6",
+      "bytes": 41409
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-07.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-07.jsonl",
+      "sha256": "6dc26cb5e12efd7240aa1e1d3196fb2cb53cc5c5cc3518173e305ceec45c9be2",
+      "bytes": 45182
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-08.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-08.jsonl",
+      "sha256": "43079607e23c5c5b6c80605bc84864f8fefef4cf536ca656f900a9d22d73bbec",
+      "bytes": 45428
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-12.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-12.jsonl",
+      "sha256": "76ee16505607414a3e2c07aba0c799a49d092f69fcd7e444a647fdec6afdf862",
+      "bytes": 44289
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-13.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-13.jsonl",
+      "sha256": "dc4cec40c4f8a4efc36efdd90f8d94dbf3e3d596c59fa713213ab43889a1469e",
+      "bytes": 45560
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-14.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-14.jsonl",
+      "sha256": "56b0f7c9203bdba801233524d28bc9f90fd2523b3f3bf7fc99b8ccb289bf5401",
+      "bytes": 46450
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-15.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-15.jsonl",
+      "sha256": "32f8bc01eb096554b3e8b54789af59771efa69f6dcfb0e096e9ffb5b83e7e01d",
+      "bytes": 42250
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-16.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-16.jsonl",
+      "sha256": "7db0385e6210100c7875472929d49359f3307c5394de3905b342f40a8a39d1ca",
+      "bytes": 45257
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-19.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-19.jsonl",
+      "sha256": "cbfa07cd989e5a04c728dc5bf74f270f9df84941d8ccea4042684ebdb6a7560b",
+      "bytes": 44143
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-20.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-20.jsonl",
+      "sha256": "2cb0a2d3d319458901a18557d84a8339f494059fb30ca7a95120e4da7d2b55ab",
+      "bytes": 43446
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-21.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-21.jsonl",
+      "sha256": "62c00dcb9d32b0127a32e43adfa9227419ae3992387c318c10637c61faaf73a7",
+      "bytes": 42954
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-22.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-22.jsonl",
+      "sha256": "70a506694184651f0d0310d568153a261c9d87aa5e47cf1db5c4eb4763108d94",
+      "bytes": 45432
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-23.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-23.jsonl",
+      "sha256": "d1f229dc35300f6c5ca1a2c3117f2afd8ab50c2e103dae96651ce4b9c203b056",
+      "bytes": 45317
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-26.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-26.jsonl",
+      "sha256": "d62ea68606caa4e874a403018958f662bca372c107be10102f14bd1d9bdf9e77",
+      "bytes": 41422
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-27.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-27.jsonl",
+      "sha256": "f6b536a20e6c97235262b06ebd0075e70e78abd7464881ae6ee6663001d1a66a",
+      "bytes": 43478
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-28.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-28.jsonl",
+      "sha256": "1b077762ec10ba4ab461e33d843f0bc4787d5bd24d9d07c2a81f57b38c366331",
+      "bytes": 44382
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-29.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-29.jsonl",
+      "sha256": "85e1920afadf420e5c32c4dfe2a52a3698e832741ad59f8f423db28c6822ae0a",
+      "bytes": 43342
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-30.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-10-30.jsonl",
+      "sha256": "e7b46c5bee3d3f6240834da3fee115f4d85aee6e86600bbe1e9ae08606fbd1e8",
+      "bytes": 46635
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-02.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-02.jsonl",
+      "sha256": "dd74011bdc18a4cdc9643e296d39079c367d3eae1825a072e4084f23ea7d5242",
+      "bytes": 45178
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-03.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-03.jsonl",
+      "sha256": "b4ffd0408df7602ce9da9324ae8dd2f3e8e34aa7745d47a8aae3fc43670df2a9",
+      "bytes": 43537
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-04.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-04.jsonl",
+      "sha256": "a6b6eb0906a21dad200cfc0b15e603ec29553952eb47074cc1df1969d667a295",
+      "bytes": 46913
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-05.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-05.jsonl",
+      "sha256": "298320e4aa0183994740dea828d208ca9d13a2907c19de0a79f8fd745d72db01",
+      "bytes": 47050
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-06.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-06.jsonl",
+      "sha256": "a01794038367eaab001cafe7a730357c03f51e3869eb6600327bbf740d20c185",
+      "bytes": 38819
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-09.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-09.jsonl",
+      "sha256": "fec81938e64005961b14be251e67ee3f9b758ed0456d150d0fa74bf653404d50",
+      "bytes": 45427
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-10.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-10.jsonl",
+      "sha256": "6c71def93611c47ef627eb9db3fa709c3260fbd28d904fb65fe7bd98f0ec6ed1",
+      "bytes": 43640
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-11.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-11.jsonl",
+      "sha256": "75e5940bed858e59398bf6e30b9d76a40a587b5d0cc96f381f675852f4fc0194",
+      "bytes": 43086
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-12.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-12.jsonl",
+      "sha256": "b8bd9855f9bc93e2224306db65d9aa0171bb5a454fb2ae5ca2f246305c8607cf",
+      "bytes": 45111
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-13.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-13.jsonl",
+      "sha256": "15c3b3328d9053758668761567fc226480d791244822fcfaa4208958b7add836",
+      "bytes": 45184
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-16.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-16.jsonl",
+      "sha256": "7fc508db6a30aa3dbdd4f0227e5241ac512a272aab02be920776aa334408fd4d",
+      "bytes": 44871
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-17.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-17.jsonl",
+      "sha256": "9c00a890e7e836f9bef503e34448990f495e41b6c9935254b70c71d01df8e115",
+      "bytes": 44155
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-18.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/journal/2026-11-18.jsonl",
+      "sha256": "c648cfc8c70def5215af6897327e388d13c16b4644808334f4350408f5ca18bd",
+      "bytes": 489
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/meta.json",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/meta.json",
+      "sha256": "189f5da2fe4cd772c52194d7f691e3cbc6c405950bc826f823adf1fefcd3ec33",
+      "bytes": 1555
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/backtest/20261118_030605/result.json",
+      "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/result.json",
+      "sha256": "c7b2bfefbbde18bfae6a43a0dce670743fac2350eed631632ae843a4d0d1823d",
+      "bytes": 12904
+    }
+  ]
+}

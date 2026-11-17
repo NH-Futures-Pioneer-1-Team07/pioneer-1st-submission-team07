@@ -1,0 +1,6 @@
+lag_bars,n,corr_futures_change_t_vs_index_change_t_plus_lag
+-2,3636,-0.006
+-1,3687,-0.008
+0,3738,0.961
+1,3687,0.005
+2,3636,-0.025
