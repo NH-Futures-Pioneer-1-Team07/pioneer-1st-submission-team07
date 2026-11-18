@@ -1,7 +1,7 @@
 {
   "source_repository": "https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07",
   "source_branch": "week5",
-  "code_reference_commit": "51c14309de1ac1c6db9f05790eae8c0ea9a4da67",
+  "code_reference_commit": "92f38b5f185daee95cc157ff428268e4a624b0c1",
   "captured_on": "2026-11-18",
   "timezone": "Asia/Seoul",
   "note": "Source working-tree artifacts copied without modification. report.md is stored as report.txt to keep one Markdown report per week. results/summary/ files are derived by this report from the NH 5-minute bar cache (backend/data/minute_cache/, not committed in the code repository) and from sweeps/ and are excluded from this manifest.",
@@ -714,6 +714,24 @@
       "destination": "results/week05_kospi200_basis_zscore/backtest/20261118_030605/result.json",
       "sha256": "c7b2bfefbbde18bfae6a43a0dce670743fac2350eed631632ae843a4d0d1823d",
       "bytes": 12904
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/paper/20261118_125014/journal/2026-11-18.jsonl",
+      "destination": "results/week05_kospi200_basis_zscore/paper/20261118_125014/journal/2026-11-18.jsonl",
+      "sha256": "2d3e33849a2c0f2a91cac1415ed811b7d92b9e1bbaf6cd0e881269ca3a45c6fa",
+      "bytes": 32655
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/paper/20261118_125014/meta.json",
+      "destination": "results/week05_kospi200_basis_zscore/paper/20261118_125014/meta.json",
+      "sha256": "b0c79029acd4cbfadb3c5abb370b69e29df0a6add18c4f87b1875a42cb4d0acf",
+      "bytes": 529
+    },
+    {
+      "source": "backend/runs/week05_kospi200_basis_zscore/paper/20261118_125014/result.json",
+      "destination": "results/week05_kospi200_basis_zscore/paper/20261118_125014/result.json",
+      "sha256": "63a9ff54dbf728c8fd8464fe1bfd3bfb416608c9b093f3119f5817fbea8292eb",
+      "bytes": 602
     }
   ]
 }
