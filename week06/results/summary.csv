@@ -1,0 +1,7 @@
+strategy_id,run_id,exit_threshold_pct,net_pnl_usd,return_pct,trade_count,fee_usd,max_drawdown_usd,max_drawdown_pct,downside_volatility_pct,worst_daily_return_pct,max_position_contracts,min_margin_adjusted_equity_usd
+week03_zn_treasury_futures,20261125_224334,10,-6751.61,-6.75,243,4392.23,12037.40,11.71,0.71,-3.03,15,66773
+week03_zn_treasury_futures,20261125_224423,20,-3879.53,-3.88,244,4410.78,30409.15,24.60,2.10,-10.46,30,31454
+week03_zn_treasury_futures,20261125_224450,30,39570.38,39.57,215,3882.74,45653.17,25.04,2.32,-13.22,30,26642
+week06_zn_intraday_average_entry,20261125_223432,10,-460.30,-0.46,164,2960.30,5507.51,5.34,0.43,-2.11,8,85519
+week06_zn_intraday_average_entry,20261125_223503,20,8821.27,8.82,164,2959.98,16234.21,13.21,1.31,-6.71,21,54376
+week06_zn_intraday_average_entry,20261125_223533,30,29776.01,29.78,164,2958.37,40396.08,24.04,1.95,-13.96,27,52017
