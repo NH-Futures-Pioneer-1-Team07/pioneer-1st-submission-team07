@@ -10,7 +10,7 @@
 | 개선 전략 | ZN 당일 평단 기준 추가 진입 전략 (`week06_zn_intraday_average_entry`) |
 | 대상 상품 | CME 미국 10년 국채선물 2026년 12월물 `ZNZ26` |
 | 검증 환경 | 과거 시세를 사용한 프로그램 내부 백테스트 6건, NH 해외 모의계좌 운용 1건 |
-| 코드 | [코드 저장소 week6 브랜치](https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07/tree/week6) · 기준 커밋 [`871f037`](https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07/tree/871f03704d75dc89d22c37c36f85878745f495d1) |
+| 코드 | [코드 저장소 week6 브랜치](https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07/tree/week6) · 기준 커밋 [`b6a526a`](https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07/tree/b6a526aee51738e0cede5206b314e3730e231b5a) |
 | 작성일 | 2026-11-26 KST |
 
 ## 폴더 구성
@@ -52,7 +52,7 @@
 ```bash
 git clone --branch week6 https://github.com/NH-Futures-Pioneer-1-Team07/pioneer-1st-code-team07.git
 cd pioneer-1st-code-team07
-git checkout 871f03704d75dc89d22c37c36f85878745f495d1
+git checkout b6a526aee51738e0cede5206b314e3730e231b5a
 cp backend/.env.example backend/.env
 ```
 
